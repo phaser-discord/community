@@ -5,7 +5,7 @@ on [Phaser][ph] projects.
 
 [You're invited][inv], we're friendly! :smile:
 
-Community Rules are over in our [Code of Conduct][coc].
+Community rules are over in our [Code of Conduct][coc].
 
 # Community Repo
 
