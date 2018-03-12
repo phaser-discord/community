@@ -5,7 +5,7 @@ on [Phaser][ph] projects.
 
 [You're invited][inv], we're friendly! :smile:
 
-Community Rules are over in our [Code of Conduct][code-of-conduct.md].
+Community Rules are over in our [Code of Conduct][coc].
 
 # Community Repo
 
@@ -22,4 +22,5 @@ away in Discord?
 
 [ph]: https://phaser.io
 [inv]: https://discord.gg/phaser
+[coc]: code-of-conduct.md
 [iss-3]: https://github.com/phaser-discord/administration/issues/3
