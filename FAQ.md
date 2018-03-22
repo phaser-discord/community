@@ -21,7 +21,10 @@ includes a `.d.ts` download directly.
 
 _Last Updated: 2018-03-14_
 
-Not yet.
+Not yet. There is a partial guide in [Newsletter issue 116][iss116] in the
+section named _Moving from Phaser 2 to Phaser 3 (Part 1)_.
+
+[iss116]: https://madmimi.com/p/a022cb
 
 The API is similiar enough that you will feel comfortable once you've figured
 out where things live but there is no mechanical solution to making a CE
