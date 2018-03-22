@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 (that we have answers to)
 
-**Tell me the story of Phaser v3 and Typescript**
+## Tell me the story of Phaser v3 and Typescript
 
 _Last Updated: 2018-03-13_
 
@@ -17,7 +17,23 @@ includes a `.d.ts` download directly.
 [ts-forum-link2]: http://www.html5gamedevs.com/topic/35740-wip-phaser-3-typescript-definitions/
 [ts-gh]: https://github.com/troyedwardsjr/phaser3-tsd
 
-**Should I user Phaser CE or v3?**
+## Is there a guide to porting my v2/CE project to v3?
+
+_Last Updated: 2018-03-14_
+
+Not yet.
+
+The API is similiar enough that you will feel comfortable once you've figured
+out where things live but there is no mechanical solution to making a CE
+project run in v3. In that way it's definitely possible to make the jump for
+an existing project.
+
+That said, enough essential things are different (no `ScaleManager` yet,
+`Scene` works differently than `State`, etc.) that it takes a little thinking
+and the work to describe how all the old CE concepts map into v3 is planned
+but currently incomplete.
+
+## Should I user Phaser CE or v3?
 
 _Last Updated: 2018-02-10 / 2018-03-13_
 
@@ -33,8 +49,8 @@ on the bleeding edge. If you're adventurous and willing to dig v3 is a good
 place to be.
 
 If you need something stable and battle worn that you can take into production,
-or you are new to Javascript/development (or just don't want to fight your tools
-on a side project) then you probably still want to stick with CE for the time
+you are new to Javascript/development, or just don't want to fight your tools
+on a side project then you probably still want to stick with CE for the time
 being.
 
 [wild-v3]: https://www.youtube.com/watch?v=St_tPsG0pX0
