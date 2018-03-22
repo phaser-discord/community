@@ -22,9 +22,10 @@ includes a `.d.ts` download directly.
 _Last Updated: 2018-03-14_
 
 Not yet. There is a partial guide in [Newsletter issue 116][iss116] in the
-section named _Moving from Phaser 2 to Phaser 3 (Part 1)_.
+section named _Moving from Phaser 2 to Phaser 3 (Part 1)_. Part 2 is in [issue 118][iss118].
 
 [iss116]: https://madmimi.com/p/a022cb
+[iss118]: https://madmimi.com/p/ff68db
 
 The API is similiar enough that you will feel comfortable once you've figured
 out where things live but there is no mechanical solution to making a CE
@@ -32,8 +33,8 @@ project run in v3. In that way it's definitely possible to make the jump for
 an existing project.
 
 That said, enough essential things are different (no `ScaleManager` yet,
-`Scene` works differently than `State`, etc.) that it takes a little thinking
-and the work to describe how all the old CE concepts map into v3 is planned
+`Scene` works differently than `State`, etc.) that it takes a little thinking. 
+The work to describe how all the old CE concepts map into v3 is planned
 but currently incomplete.
 
 ## Should I user Phaser CE or v3?
