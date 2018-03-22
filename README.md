@@ -6,6 +6,11 @@ on [Phaser][ph] projects.
 [You're invited][inv], we're friendly! :smile:
 
 Community rules are over in our [Code of Conduct][coc].
+# FAQ
+
+We started one! It's right next to this file: [FAQ.md](./FAQ.md).
+
+Read it, make Pull Requests, be awesome.
 
 # Community Repo
 
