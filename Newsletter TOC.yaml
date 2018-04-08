@@ -1,0 +1,35 @@
+- Issue: 119
+  Tutorials:
+    - name: Scenes
+      desc: Deep dive into how the Scene system works in phaser 3
+      link: https://madmimi.com/p/a2dddb
+
+    - name: How to Create a Game with Phaser 3
+      desc: Brief introduction to game and scene lifecycle. Starting from ground zero, comparable to the phaser.io "Making your first Phaser Game" series.
+      link: https://phaser.io/news/2018/03/how-to-create-a-game-with-phaser-3
+      link: https://gamedevacademy.org/phaser-3-tutorial/
+
+    - name: Game distribution APIs
+      desc: How to use the GameDistribution.com site to publicize and monetize your work
+      link: https://phaser.io/news/2018/03/game-distribution-api-tutorial
+      link: http://www.emanueleferonato.com/2018/01/23/step-by-step-guide-to-integrate-gamedistribution-api-in-your-html5-game/
+
+    - name: Sprite sheets in Phaser3
+      desc: Using TexturePacker to create sprite sheets (texture atlas) and use these in Phaser v3 for display & animation
+      link: https://phaser.io/news/2018/03/texturepacker-and-phaser-3-tutorial
+      link: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
+
+    - name: An A to Z guide to pathfinding with Easystar and Phaser 3
+      desc: How to use the Easystar library to handle path finding. Also touches on use of Tiled to assign custom tile properties.
+      link: https://phaser.io/news/2018/03/pathfinding-and-phaser-3
+      link: http://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/
+
+  Updates:
+    - API Docs
+    - Typescript Definitions
+    - Containers
+  
+  Releases:
+    - v3.3.0
+    - v2.10.3
+   
