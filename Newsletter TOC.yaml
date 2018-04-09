@@ -1,10 +1,12 @@
 - Issue: 119
   Tutorials:
     - name: Scenes
-      desc: Deep dive into how the Scene system works in phaser 3
+      version: v3
+      desc: Deep dive into how the Scene system works in Phaser 3
       link: https://madmimi.com/p/a2dddb
 
     - name: How to Create a Game with Phaser 3
+      version: v3
       desc: Brief introduction to game and scene lifecycle. Starting from ground zero, comparable to the phaser.io "Making your first Phaser Game" series.
       link: https://phaser.io/news/2018/03/how-to-create-a-game-with-phaser-3
       link: https://gamedevacademy.org/phaser-3-tutorial/
@@ -15,11 +17,13 @@
       link: http://www.emanueleferonato.com/2018/01/23/step-by-step-guide-to-integrate-gamedistribution-api-in-your-html5-game/
 
     - name: Sprite sheets in Phaser3
+      version: v3
       desc: Using TexturePacker to create sprite sheets (texture atlas) and use these in Phaser v3 for display & animation
       link: https://phaser.io/news/2018/03/texturepacker-and-phaser-3-tutorial
       link: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
 
     - name: An A to Z guide to pathfinding with Easystar and Phaser 3
+      version: v3
       desc: How to use the Easystar library to handle path finding. Also touches on use of Tiled to assign custom tile properties.
       link: https://phaser.io/news/2018/03/pathfinding-and-phaser-3
       link: http://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/
@@ -33,3 +37,35 @@
     - v3.3.0
     - v2.10.3
    
+- Issue: 118
+  Tutorials:
+    - name: Phaser 3 migration Guide, Part 2
+      version: v3
+      desc: A continuation of the discussion about the differences between v2 and v3.
+      link: https://madmimi.com/p/ff68db
+      
+    - name: Animated Tiles from Tiled
+      version: v3
+      desc: Provides a plugin, and a guide to using it, that adds support for animated tiles as exported from Tiled.
+      link: https://phaser.io/news/2018/03/phaser-3-animated-tiles-plugin
+      link: https://github.com/nkholski/phaser-animated-tiles
+      
+    - name: Generating sprite sheets from Photoshop
+      version: v2
+      desc: Uses TexturePacker and Photoshop's layers to generate a sprite sheet. Contains bare bones demo of how to load the resulting atlas.
+      link: https://phaser.io/news/2018/03/psd-parse-and-texturepacker-tutorial
+      link: https://medium.com/@jeffreyroshan/generate-phaser-spritesheet-from-psd-layers-using-psdparse-texturepacker-6c7a3446a3d3
+    
+    - name: Recreating "Ballz" in Phaser, Part 3
+      version: v2
+      desc: Continuation of a full game prototype involving block-breaking multi-ball action
+      link: https://phaser.io/news/2018/03/ballz-prototype-tutorial-part-3
+      link: http://www.emanueleferonato.com/2018/01/16/build-a-html5-game-like-ballz-using-phaser-and-arcade-physics-adding-multiball/
+
+  Updates:
+    - Docs
+    - Containers
+    
+  Releases:
+    - v3.2.1
+    - v2.10.1
