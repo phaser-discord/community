@@ -1,3 +1,74 @@
+- Issue: 121
+  Link: https://madmimi.com/p/860f1c
+  Tutorials:
+    - name: Scenes Tutorial pt. 2
+      version: v3
+      desc: Learn more about Scene List and Scene Rendering
+      link: https://madmimi.com/p/860f1c
+      
+    - name: Creating native mobile games with Phaser3 and Capacitor
+      version: v3
+      desc: Build a native mobile app with Typescript, Webpack, and Capacitor
+      link: https://phaser.io/news/2018/04/capacitor-and-phaser-tutorial
+      link: https://www.joshmorony.com/create-native-html5-games-with-phaser-and-capacitor/
+
+    - name: A Sokoban tutorial update
+      version: v3
+      desc: Build an updated Sokoban game with new features and better efficiency!
+      link: https://phaser.io/news/2018/04/sokoban-tutorial-update
+      link: http://www.emanueleferonato.com/2018/03/08/html5-sokoban-prototype-built-with-phaser-3-updated-to-3-2-0-with-improved-undo-double-tap-control-pixel-art-mode-and-flashing-camera/
+
+  Updates:
+    - v3.7.0 development progress
+    - Changes coming to Loader Plugin and File Types
+
+- Issue: 120
+  Link: https://madmimi.com/p/a2dddb
+  Tutorials:
+    - name: Platformer Tutorial
+      version: v3
+      desc: This guide teaches you how to make a mario-style platformer with Phaser3 and Tiled
+      link: https://phaser.io/news/2018/04/phaser-3-platformer-tutorial
+      link: https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/?a=13
+
+    - name: Matter Physics
+      version: v3
+      desc: An introduction to the Matter.js physics engine; drop crates on crates!
+      link: https://phaser.io/news/2018/04/matter-physics-example
+      link: http://www.emanueleferonato.com/2018/02/21/your-first-phaser-3-matter-js-physics-example/
+
+    - name: Learn Game Development with Catt Small
+      version: v3
+      desc: Introduction to Phaser and game development with Catt Small; video lecture
+      link: https://phaser.io/news/2018/04/coding-train-tutorial
+      link: https://blog.codepen.io/2018/04/10/phaser-game-development-with-catt-small/
+    
+    - name: Lighting Effects in Phaser3
+      version: v3
+      desc: Uses normal map texture to provide some depth to your 2D sprites.
+      link: https://phaser.io/news/2018/04/light-effects-tutorial
+      link: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-light-effects-in-phaser3
+
+    - name: Mobile Games with Phaser3 and Cordova
+      version: v3
+      desc: Get a basic game running on a mobile device with Cordova.
+      link: https://phaser.io/news/2018/04/mobile-games-tutorial
+      link: https://gamedevacademy.org/creating-mobile-games-with-phaser-3-and-cordova/?a=13
+
+    - name: Recreate "Magick"
+      version: v2
+      desc: Simple game based on navigating a tilemap with an auto-walking player and dynamic obstacle.
+      link: https://phaser.io/news/2018/04/magick-prototype-tutorial
+      link: http://www.emanueleferonato.com/2018/01/29/build-a-html5-game-like-magick-ipad-game-using-phaser-and-arcade-physics-code-updated-and-new-features-added/
+
+  Updates:
+    - Containers, and an introduction!
+    - Scene Transitions
+    - Docs and Typescript
+  
+  Releases:
+    - v3.6.0
+
 - Issue: 119
   Link: https://madmimi.com/p/a2dddb
   Tutorials:
