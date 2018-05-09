@@ -1,6 +1,17 @@
 # Frequently Asked Questions
 (that we have answers to)
 
+## How do I get started with multiplayer games?
+
+_Work in progress, last updated: 2018-05-09_
+
+Right now this is just a collection of links that potentially may be useful:
+
+- http://buildnewgames.com/real-time-multiplayer/
+- http://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html
+- (for phaser v2 but the theory is there) http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
+- (written in Haxe, but the theory is there) http://antriel.com/post/online-platformer-1/
+
 ## Is there a ScaleManager in v3?
 
 _Last Updated: 2018-05-08_
