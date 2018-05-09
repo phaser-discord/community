@@ -11,6 +11,8 @@ Right now this is just a collection of links that potentially may be useful:
 - http://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html
 - (for phaser v2 but the theory is there) http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
 - (written in Haxe, but the theory is there) http://antriel.com/post/online-platformer-1/
+- (non-code theory) https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/
+- (probably not where you want to start but quality info) https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization
 
 ## Is there a ScaleManager in v3?
 
