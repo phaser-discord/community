@@ -19,10 +19,13 @@ Right now this is just a collection of links that potentially may be useful:
 _Last Updated: 2018-05-08_
 
 Nope! But luckily for some common cases it's not too bad to roll your own solution.
-Check [this thread][sm-thread] for a code sample from community member Antriel!
-Additionally, Samme, provides [this codepen][sm-cpen] sample that shows some
-promising resize behavior.
+We even have some examples
+- [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
+  demonstratse how to hook it into your game
+- [this thread][sm-thread] includes a (Haxe) code sample from community member Antriel
+- [a codepen][sm-cpen] sample linked from Samme includes another promising solution
 
+[sm-gist]: https://gist.github.com/AleBles/697d703e89eecae5a350c1453a32861e
 [sm-thread]: http://www.html5gamedevs.com/topic/33206-scalemanagershow_all/
 [sm-cpen]: https://codepen.io/samme/pen/paOjMO
 
