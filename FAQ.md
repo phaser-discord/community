@@ -26,12 +26,15 @@ suggestions about new stuff that should be added to the list.
    exactly but talks a little bit about how to organize your project so that it's
    easy to keep building on what you've got. Optional reading but I feel it's an
    important bit of information.
-5. [Reach out][community-links]&mdash;Get involved in the community! It's dangerous
-   to go alone, take a friend!
+5. [Ask for help][community-links]&mdash;Get involved in the community! It's dangerous
+   to go alone, take a friend, and don't be afraid to ask for help.
 6. [How scenes work][scenes]&mdash;Goes into more detail about how scenes can work
    and can fit into your game.
- 
-(Disclaimer: the author of this list wrote the structure and scenes posts)
+
+_Disclaimer:_ the author of this list wrote the structure and scenes posts
+
+The [phaser examples page][labs] is a rich source of code samples demonstrating
+various aspects of the Phaser framework.
 
 TODO: need to add some guides about javascript basics etc.
 TODO: find & add some simple sample projects
@@ -42,6 +45,7 @@ TODO: find & add some simple sample projects
 [structure]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part1.md
 [scenes]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part3.md
 [community-links]: https://phaser.io/community
+[labs]: https://labs.phaser.io
 
 ## How do I get started with multiplayer games?
 
