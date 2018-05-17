@@ -72,11 +72,13 @@ We even have some examples
   as described in [this post][sm-overlays]
 - [this thread][sm-thread] includes a (Haxe) code sample from community member Antriel
 - [a codepen][sm-cpen] sample linked from Samme includes another promising solution
+- [Scaling without framework support][sm-efer] Emanuele works through the principles of scaling your game regardless of framework support
 
 [sm-gist]: https://gist.github.com/AleBles/697d703e89eecae5a350c1453a32861e
 [sm-thread]: http://www.html5gamedevs.com/topic/33206-scalemanagershow_all/
 [sm-cpen]: https://codepen.io/samme/pen/paOjMO
 [sm-overlays]: https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371
+[sm-efer]: http://www.emanueleferonato.com/2018/02/16/how-to-scale-your-html5-games-if-your-framework-does-not-feature-a-scale-manager-or-if-you-do-not-use-any-framework/
 
 ## Tell me the story of Phaser v3 and Typescript
 
