@@ -1,6 +1,48 @@
 # Frequently Asked Questions
 (that we have answers to)
 
+## I'm new to Phaser, what should I do?
+
+_Last Updated: 2018-05-17_
+
+The key to learning game dev / Phaser is to _just build stuff_, it doesn't
+need to be good or even complete. The more you program the more you know
+and the easier it is to make what you imagine real.
+
+That said, if having a list of things that help you get started is useful
+we've compiled a bunch of introductory guides. They're ordered based on how
+much you're expected to already know and we're always happy to take
+suggestions about new stuff that should be added to the list.
+
+1. [Getting Started][get-started]&mdash;This introduces you to the basics of how to
+   run your game and gives provides a super simple game you can create.
+2. [Making your first game][first-game]&mdash;Once you're comfortable with running
+   a server and editing code work through this. It introduces some basic systems
+   involved in a Phaser game.
+3. [How to create a game][how-to-create]&mdash;This is a similar slice of information
+   as _Making your first game_ but covers enough different information that it's
+   worth reading through as well.
+4. [How to structure your code][structure]&mdash;This isn't about how to program
+   exactly but talks a little bit about how to organize your project so that it's
+   easy to keep building on what you've got. Optional reading but I feel it's an
+   important bit of information.
+5. [Reach out][community-links]&mdash;Get involved in the community! It's dangerous
+   to go alone, take a friend!
+6. [How scenes work][scenes]&mdash;Goes into more detail about how scenes can work
+   and can fit into your game.
+ 
+(Disclaimer: the author of this list wrote the structure and scenes posts)
+
+TODO: need to add some guides about javascript basics etc.
+TODO: find & add some simple sample projects
+
+[get-started]: https://phaser.io/tutorials/getting-started-phaser3/index
+[first-game]: https://phaser.io/tutorials/making-your-first-phaser-3-game
+[how-to-create]: https://gamedevacademy.org/phaser-3-tutorial/
+[structure]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part1.md
+[scenes]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part3.md
+[community-links]: https://phaser.io/community
+
 ## How do I get started with multiplayer games?
 
 _Work in progress, last updated: 2018-05-09_
