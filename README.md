@@ -6,6 +6,15 @@ on [Phaser][ph] projects.
 [You're invited][inv], we're friendly! :smile:
 
 Community rules are over in our [Code of Conduct][coc].
+
+# How do I get started with GameDev / Phaser?
+
+The short version is: build stuff, read things, ask questions.
+
+We also have a [longer answer][q1] in the FAQ.
+
+[q1]: https://github.com/phaser-discord/community/blob/master/FAQ.md#im-new-to-phaser-what-should-i-do
+
 # FAQ
 
 We started one! It's right next to this file: [FAQ.md](./FAQ.md).
