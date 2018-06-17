@@ -36,8 +36,13 @@ _Disclaimer:_ the author of this list wrote the structure and scenes posts
 The [phaser examples page][labs] is a rich source of code samples demonstrating
 various aspects of the Phaser framework.
 
-TODO: need to add some guides about javascript basics etc.
-TODO: find & add some simple sample projects
+The [phaser API docs][apidocs] is an ever-improving source of information and great
+for self-directed exploration.
+
+If you'd like to help this list grow we'd like to add:
+
+- some guides about javascript basics etc
+- some simple sample projects with documentation
 
 [get-started]: https://phaser.io/tutorials/getting-started-phaser3/index
 [first-game]: https://phaser.io/tutorials/making-your-first-phaser-3-game
@@ -46,6 +51,7 @@ TODO: find & add some simple sample projects
 [scenes]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part3.md
 [community-links]: https://phaser.io/community
 [labs]: https://labs.phaser.io
+[apidocs]: https://photonstorm.github.io/phaser3-docs/
 
 ## How do I get started with multiplayer games?
 
