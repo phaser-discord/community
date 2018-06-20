@@ -55,10 +55,11 @@ If you'd like to help this list grow we'd like to add:
 
 ## How do I get started with multiplayer games?
 
-_Work in progress, last updated: 2018-05-09_
+_Work in progress, last updated: 2018-06-20_
 
 Right now this is just a collection of links that potentially may be useful:
 
+- (A great free course from Udacity / Google) https://eu.udacity.com/course/html5-game-development--cs255
 - http://buildnewgames.com/real-time-multiplayer/
 - http://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html
 - (for phaser v2 but the theory is there) http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
