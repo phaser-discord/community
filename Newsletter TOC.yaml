@@ -10,13 +10,13 @@
       version: v3
       desc: Build a native mobile app with Typescript, Webpack, and Capacitor
       link: https://phaser.io/news/2018/04/capacitor-and-phaser-tutorial
-      link: https://www.joshmorony.com/create-native-html5-games-with-phaser-and-capacitor/
+      directlink: https://www.joshmorony.com/create-native-html5-games-with-phaser-and-capacitor/
 
     - name: A Sokoban tutorial update
       version: v3
       desc: Build an updated Sokoban game with new features and better efficiency!
       link: https://phaser.io/news/2018/04/sokoban-tutorial-update
-      link: http://www.emanueleferonato.com/2018/03/08/html5-sokoban-prototype-built-with-phaser-3-updated-to-3-2-0-with-improved-undo-double-tap-control-pixel-art-mode-and-flashing-camera/
+      directlink: http://www.emanueleferonato.com/2018/03/08/html5-sokoban-prototype-built-with-phaser-3-updated-to-3-2-0-with-improved-undo-double-tap-control-pixel-art-mode-and-flashing-camera/
 
   Updates:
     - v3.7.0 development progress
@@ -29,37 +29,37 @@
       version: v3
       desc: This guide teaches you how to make a mario-style platformer with Phaser3 and Tiled
       link: https://phaser.io/news/2018/04/phaser-3-platformer-tutorial
-      link: https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/?a=13
+      directlink: https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/?a=13
 
     - name: Matter Physics
       version: v3
       desc: An introduction to the Matter.js physics engine; drop crates on crates!
       link: https://phaser.io/news/2018/04/matter-physics-example
-      link: http://www.emanueleferonato.com/2018/02/21/your-first-phaser-3-matter-js-physics-example/
+      directlink: http://www.emanueleferonato.com/2018/02/21/your-first-phaser-3-matter-js-physics-example/
 
     - name: Learn Game Development with Catt Small
       version: v3
       desc: Introduction to Phaser and game development with Catt Small; video lecture
       link: https://phaser.io/news/2018/04/coding-train-tutorial
-      link: https://blog.codepen.io/2018/04/10/phaser-game-development-with-catt-small/
+      directlink: https://blog.codepen.io/2018/04/10/phaser-game-development-with-catt-small/
     
     - name: Lighting Effects in Phaser3
       version: v3
       desc: Uses normal map texture to provide some depth to your 2D sprites.
       link: https://phaser.io/news/2018/04/light-effects-tutorial
-      link: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-light-effects-in-phaser3
+      directlink: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-light-effects-in-phaser3
 
     - name: Mobile Games with Phaser3 and Cordova
       version: v3
       desc: Get a basic game running on a mobile device with Cordova.
       link: https://phaser.io/news/2018/04/mobile-games-tutorial
-      link: https://gamedevacademy.org/creating-mobile-games-with-phaser-3-and-cordova/?a=13
+      directlink: https://gamedevacademy.org/creating-mobile-games-with-phaser-3-and-cordova/?a=13
 
     - name: Recreate "Magick"
       version: v2
       desc: Simple game based on navigating a tilemap with an auto-walking player and dynamic obstacle.
       link: https://phaser.io/news/2018/04/magick-prototype-tutorial
-      link: http://www.emanueleferonato.com/2018/01/29/build-a-html5-game-like-magick-ipad-game-using-phaser-and-arcade-physics-code-updated-and-new-features-added/
+      directlink: http://www.emanueleferonato.com/2018/01/29/build-a-html5-game-like-magick-ipad-game-using-phaser-and-arcade-physics-code-updated-and-new-features-added/
 
   Updates:
     - Containers, and an introduction!
@@ -81,24 +81,24 @@
       version: v3
       desc: Brief introduction to game and scene lifecycle. Starting from ground zero, comparable to the phaser.io "Making your first Phaser Game" series.
       link: https://phaser.io/news/2018/03/how-to-create-a-game-with-phaser-3
-      link: https://gamedevacademy.org/phaser-3-tutorial/
+      directlink: https://gamedevacademy.org/phaser-3-tutorial/
 
     - name: Game distribution APIs
       desc: How to use the GameDistribution.com site to publicize and monetize your work
       link: https://phaser.io/news/2018/03/game-distribution-api-tutorial
-      link: http://www.emanueleferonato.com/2018/01/23/step-by-step-guide-to-integrate-gamedistribution-api-in-your-html5-game/
+      directlink: http://www.emanueleferonato.com/2018/01/23/step-by-step-guide-to-integrate-gamedistribution-api-in-your-html5-game/
 
     - name: Sprite sheets in Phaser3
       version: v3
       desc: Using TexturePacker to create sprite sheets (texture atlas) and use these in Phaser v3 for display & animation
       link: https://phaser.io/news/2018/03/texturepacker-and-phaser-3-tutorial
-      link: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
+      directlink: https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
 
     - name: An A to Z guide to pathfinding with Easystar and Phaser 3
       version: v3
       desc: How to use the Easystar library to handle path finding. Also touches on use of Tiled to assign custom tile properties.
       link: https://phaser.io/news/2018/03/pathfinding-and-phaser-3
-      link: http://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/
+      directlink: http://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/
 
   Updates:
     - API Docs
@@ -121,19 +121,19 @@
       version: v3
       desc: Provides a plugin, and a guide to using it, that adds support for animated tiles as exported from Tiled.
       link: https://phaser.io/news/2018/03/phaser-3-animated-tiles-plugin
-      link: https://github.com/nkholski/phaser-animated-tiles
+      directlink: https://github.com/nkholski/phaser-animated-tiles
       
     - name: Generating sprite sheets from Photoshop
       version: v2
       desc: Uses TexturePacker and Photoshop's layers to generate a sprite sheet. Contains bare bones demo of how to load the resulting atlas.
       link: https://phaser.io/news/2018/03/psd-parse-and-texturepacker-tutorial
-      link: https://medium.com/@jeffreyroshan/generate-phaser-spritesheet-from-psd-layers-using-psdparse-texturepacker-6c7a3446a3d3
+      directlink: https://medium.com/@jeffreyroshan/generate-phaser-spritesheet-from-psd-layers-using-psdparse-texturepacker-6c7a3446a3d3
     
     - name: Recreating "Ballz" in Phaser, Part 3
       version: v2
       desc: Continuation of a full game prototype involving block-breaking multi-ball action
       link: https://phaser.io/news/2018/03/ballz-prototype-tutorial-part-3
-      link: http://www.emanueleferonato.com/2018/01/16/build-a-html5-game-like-ballz-using-phaser-and-arcade-physics-adding-multiball/
+      directlink: http://www.emanueleferonato.com/2018/01/16/build-a-html5-game-like-ballz-using-phaser-and-arcade-physics-adding-multiball/
 
   Updates:
     - Docs
