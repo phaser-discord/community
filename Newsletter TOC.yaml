@@ -1,3 +1,92 @@
+- Issue: 122
+  Link: https://madmimi.com/p/abd23c
+  Tutorials:
+    - name: Tilemap Mini-Tutorial
+      version: v3
+      desc: Learn more about Tilemaps, including tilemap culling and tileset extrusion
+      link: https://madmimi.com/p/abd23c
+      
+    - name: Modern Web Dev Set-up for Phaser 3
+      version: v3
+      desc: A guide to setting-up a modern web dev environment for Phaser 3 development.
+      link: https://phaser.io/news/2018/05/modern-web-dev-set-up-for-phaser-3
+      directlink: https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/
+
+    - name: FB Instant Games in Phaser
+      version: v3
+      desc: A new tutorial on integrating Phaser with the Facebook Instant Games API.
+      link: https://phaser.io/news/2018/05/fb-instant-games-in-phaser
+      directlink: http://www.emanueleferonato.com/2018/03/28/how-to-integrate-facebook-instant-games-api-in-your-phaser-game/
+
+    - name: FB Instant Games Tutorial 2
+      version: v3
+      desc: Learn how to display the players name and profile picture in your game.
+      link: https://phaser.io/news/2018/05/fb-instant-games-tutorial-2
+      directlink: http://www.emanueleferonato.com/2018/04/05/how-to-integrate-facebook-instant-games-api-in-your-phaser-game-displaying-player-name-and-profile-picture/
+
+    - name: FB Instant Games Tutorial 3
+      version: v3
+      desc: Learn how to save player data in your Facebook Instant Games.
+      link: https://phaser.io/news/2018/05/fb-instant-games-tutorial-3
+      directlink: http://www.emanueleferonato.com/2018/04/17/how-to-integrate-facebook-instant-games-api-in-your-phaser-game-saving-game-information/
+
+    - name: Knife Hit Tutorial Part 1
+      version: v3
+      desc: Re-create the game Knife Hit using only tweens and trigonometry in Phaser 3.
+      link: http://phaser.io/news/2018/05/knife-hit-tutorial-part-1
+      directlink: http://www.emanueleferonato.com/2018/04/10/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry/
+
+    - name: Knife Hit Tutorial Part 2
+      version: v3
+      desc: Re-create the game Knife Hit in Phaser 3. This time adding in hitting other knives.
+      link: http://phaser.io/news/2018/05/knife-hit-tutorial-part-2
+      directlink: http://www.emanueleferonato.com/2018/04/18/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry-hitting-knives/
+
+    - name: Socket.io Phaser 3 Tutorial
+      version: v3
+      desc: Creating a basic multiplayer game with Socket.io and Phaser 3.
+      link: http://phaser.io/news/2018/05/socket-io-phaser-3-tutorial
+      directlink: https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-1/?a=13
+
+    - name: Socket.io Phaser 3 Tutorial Part 2
+      version: v3
+      desc: In part 2 of creating a multiplayer game with Socket.io and Phaser 3 it adds player removal, input and collectibles.
+      link: http://phaser.io/news/2018/05/socket-io-phaser-3-tutorial-part-2
+      directlink: https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-2/?a=13
+
+    - name: Phaser 3 Preloader Tutorial
+      version: v3
+      desc: How to create a Preloader Scene with progress bar in Phaser 3.
+      link: http://phaser.io/news/2018/05/phaser-3-preloader-tutorial
+      directlink: https://gamedevacademy.org/creating-a-preloading-screen-in-phaser-3/?a=13
+
+    - name: 2048 Tutorial Part 1
+      version: v3
+      desc: A new tutorial series on re-creating the game 2048 in Phaser 3.
+      link: http://phaser.io/news/2018/05/2048-tutorial-part-1
+      directlink: http://www.emanueleferonato.com/2018/03/16/build-a-html5-game-like-2048-using-the-brand-new-phaser-3-2-1/
+
+    - name: 2048 Tutorial Part 2
+      version: v3
+      desc: The second part of tutorial series on re-creating the game 2048 in Phaser 3 adds swipe controls and sprite sheets.
+      link: http://phaser.io/news/2018/05/2048-tutorial-part-2
+      directlink: http://www.emanueleferonato.com/2018/03/21/html5-2048-game-made-with-phaser-3-updated-adding-spritesheets-and-swipe-control/
+
+  Updates:
+    - Phaser World is back
+    - New Phaser releases
+    - Facebook Instang Games Plugin for 3.12
+    - Scale Manager in 3.12
+
+  Releases:
+    - v3.7.0
+    - v3.8.0
+    - v3.9.0
+    - v3.10.0
+    - v3.10.1
+    - v3.11.0
+    - v2.10.6
+
 - Issue: 121
   Link: https://madmimi.com/p/860f1c
   Tutorials:
