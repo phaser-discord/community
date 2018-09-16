@@ -53,6 +53,13 @@ If you'd like to help this list grow we'd like to add:
 [labs]: https://labs.phaser.io
 [apidocs]: https://photonstorm.github.io/phaser3-docs/
 
+## Where is the documentation and/or examples?
+The [phaser examples page][labs] is a rich source of code samples demonstrating
+various aspects of the Phaser framework.
+
+The [phaser API docs][apidocs] is an ever-improving source of information and great
+for self-directed exploration.
+
 ## How do I get started with multiplayer games?
 
 _Work in progress, last updated: 2018-06-20_
