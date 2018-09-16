@@ -54,6 +54,9 @@ If you'd like to help this list grow we'd like to add:
 [apidocs]: https://photonstorm.github.io/phaser3-docs/
 
 ## Where is the documentation and/or examples?
+
+_Last Updated: 2018-09-16_
+
 The [phaser examples page][labs] is a rich source of code samples demonstrating
 various aspects of the Phaser framework.
 
