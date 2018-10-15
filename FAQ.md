@@ -53,6 +53,16 @@ If you'd like to help this list grow we'd like to add:
 [labs]: https://labs.phaser.io
 [apidocs]: https://photonstorm.github.io/phaser3-docs/
 
+## Where is the documentation and/or examples?
+
+_Last Updated: 2018-09-16_
+
+The [phaser examples page][labs] is a rich source of code samples demonstrating
+various aspects of the Phaser framework.
+
+The [phaser API docs][apidocs] is an ever-improving source of information and great
+for self-directed exploration.
+
 ## How do I get started with multiplayer games?
 
 _Work in progress, last updated: 2018-06-20_
@@ -71,17 +81,23 @@ Right now this is just a collection of links that potentially may be useful:
 
 _Last Updated: 2018-08-13_
 
-Not yet, but one is in the works and planned for Phaser 3.12! It won't be as complex as the one in Phaser CE, but should do a good job in helping you scale your game to fill the entire screen.
+Not yet, but one is in the works and planned for Phaser 3.15! It won't be as complex as
+the one in Phaser CE, but should do a good job in helping you scale your game to fill
+the entire screen.
 
-If you want to roll your own solution in the mean time (it's not too bad), we even have some examples
+In the mean time it's not too bad to roll your own solution. We even have some examples
+- [Example page][danny-ex] from DannyT includes functional examples built using
+  some of the principles discussed in the following links
 - [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
   demonstratse how to hook it into your game; the `orientation` and `content` references
   are HTML elements in yoru page that you cane use to implement "wrong orientation" overlays
   as described in [this post][sm-overlays]
 - [this thread][sm-thread] includes a (Haxe) code sample from community member Antriel
 - [a codepen][sm-cpen] sample linked from Samme includes another promising solution
-- [Scaling without framework support][sm-efer] Emanuele works through the principles of scaling your game regardless of framework support
+- [Scaling without framework support][sm-efer] Emanuele works through the principles
+  of scaling your game regardless of framework support
 
+[danny-ex]: http://phaser3.danny-t.co.uk/scaling/
 [sm-gist]: https://gist.github.com/AleBles/697d703e89eecae5a350c1453a32861e
 [sm-thread]: http://www.html5gamedevs.com/topic/33206-scalemanagershow_all/
 [sm-cpen]: https://codepen.io/samme/pen/paOjMO
