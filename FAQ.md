@@ -79,10 +79,13 @@ Right now this is just a collection of links that potentially may be useful:
 
 ## Is there a ScaleManager in v3?
 
-_Last Updated: 2018-05-08_
+_Last Updated: 2018-08-13_
 
-Nope! But luckily for some common cases it's not too bad to roll your own solution.
-We even have some examples
+Not yet, but one is in the works and planned for Phaser 3.15! It won't be as complex as
+the one in Phaser CE, but should do a good job in helping you scale your game to fill
+the entire screen.
+
+In the mean time it's not too bad to roll your own solution. We even have some examples
 - [Example page][danny-ex] from DannyT includes functional examples built using
   some of the principles discussed in the following links
 - [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
@@ -123,7 +126,7 @@ section named _Moving from Phaser 2 to Phaser 3 (Part 1)_. Part 2 is in
 [iss116]: https://madmimi.com/p/a022cb
 [iss118]: https://madmimi.com/p/ff68db
 
-The API is similiar enough that you will feel comfortable once you've figured
+The API is similar enough that you will feel comfortable once you've figured
 out where things live but there is no mechanical solution to making a CE
 project run in v3. In that way it's definitely possible to make the jump for
 an existing project.
@@ -133,14 +136,14 @@ That said, enough essential things are different (no `ScaleManager` yet,
 The work to describe how all the old CE concepts map into v3 is planned
 but currently incomplete.
 
-## Should I user Phaser CE or v3?
+## Should I use Phaser CE or v3?
 
-_Last Updated: 2018-02-10 / 2018-05-08_
+_Last Updated: 2018-02-10 / 2018-08-13_
 
 tl;dr: One of our members made a video talking about deciding whether or not
-to use v3: [go watch it][wild-v3] (thanks Wild)! For production stuff it's
-probably not ready but if you're learning Phaser and/or adventurous then v3
-is a pretty okay bet.
+to use v3: [go watch it][wild-v3] (thanks Wild)! For production stuff, Phaser CE
+is still a good choice, but if you're learning Phaser and/or feeling adventurous
+then v3 is a pretty good bet, and it's becoming better every day.
 
 That video was recorded Feb 10th. Since then we (the community at large) have
 leveled up several times about how well we understand and how much we've
@@ -153,6 +156,7 @@ place to be.
 If you need something stable and battle worn that you can take into production,
 you are new to Javascript/development, or just don't want to fight your tools
 on a side project then you probably still want to stick with CE for the time
-being.
+being. That said, the documentation is becoming better every day, so be sure to
+check on the status of Phaser 3 from time to time.
 
 [wild-v3]: https://www.youtube.com/watch?v=St_tPsG0pX0
