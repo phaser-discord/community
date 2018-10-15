@@ -1,3 +1,58 @@
+- Issue: 130
+  Link: https://madmimi.com/p/eeb5ec
+  Tutorials:
+    - name: Progressive Web Apss
+      version: v3
+      desc: Learn to create hybrid mobile + desktop games.
+      link: https://phaser.io/news/2018/10/progressive-web-apps-tutorial
+      directlink: https://gamedevacademy.org/phaser-progressive-web-apps-tutorial/
+      tags:
+        - mobile
+        - zenva
+        - service worker
+        - offline
+    - name: Wheel of Fortune Pt 1
+      version: v3
+      desc: Build a wheel of fortune on the fly using Phaser's graphic object then turn it into a sprite.
+      link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-1
+      directlink: https://www.emanueleferonato.com/2018/05/29/build-a-wheel-of-fortune-for-your-html5-games-with-phaser-in-only-a-few-lines-draw-the-wheel-on-the-fly-with-large-room-for-customization/
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+    - name: Wheel of Fortune Pt 2
+      version: v3
+      desc: Builds on the previous Wheel of Fortune guide and makes it prettier and with better "spin feel."
+      link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-2
+      directlink: https://www.emanueleferonato.com/2018/06/06/build-a-wheel-of-fortune-for-your-html5-games-with-phaser-3-in-only-a-few-lines-adding-gradients-rings-and-inertia-effect/
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - gradient
+        - tween
+        - resize
+    - name: Phaser Factories Guide
+      version: v3
+      desc: Learn how to utilize the power of GameObjectFactory and friends.
+      link: https://madmimi.com/p/eeb5ec
+      tags:
+        - factory
+        - phaser feature guide
+        - gameobjectfactory
+
+  Updates:
+    - New Sticker Packs!
+    - "Doc Jam: Write docs, when prizes"
+    - Tilemap improvements
+    - "Scale Manager: now targetting 3.15.0"
+    - Container rewrite beginning in 3.16
+    - Spine Plugin proof of concept work
+
+  Releases:
+    - 3.14.0
+    - 2.11.1
+
 - Issue: 122
   Link: https://madmimi.com/p/abd23c
   Tutorials:
