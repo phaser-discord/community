@@ -10,6 +10,7 @@
         - this
         - scoping
     - name: Wheel of Fortune Part 3
+      series: Wheel of Fortune
       desc: Expands on the previous tutorials to allow configuration of slice size.
       link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-3
       directlink: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-3
@@ -20,6 +21,7 @@
         - tween
         - resize
     - name: Wheel of Fortune Part 4
+      series: Wheel of Fortune
       desc: Completes the Wheel of Fortune series by using containers to attach prizes to our wheel.
       link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-4
       directlink: https://www.emanueleferonato.com/2018/06/20/build-a-wheel-of-fortune-for-your-html5-games-with-phaser-3-in-only-a-few-lines-adding-icons-using-the-brand-new-phaser-3-containers/
@@ -31,6 +33,7 @@
         - resize
         - container
     - name: Knife Hit Part 4
+      series: Knife Hit
       desc: Adds collectable items to our knife throwing game.
       link: https://phaser.io/news/2018/10/knife-hit-tutorial-part-4
       directlink: https://www.emanueleferonato.com/2018/06/15/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry-adding-apples-and-slicing-them-too/
@@ -48,7 +51,7 @@
         - physics
         - matter
         - phaser feature guide
-  
+
   Updates:
     - "Doc Jam: Write docs, win prizes"
     - Scale Manager gets a full rewrite, will come with fullscreen API support
@@ -70,6 +73,7 @@
         - service worker
         - offline
     - name: Wheel of Fortune Pt 1
+      series: Wheel of Fortune
       version: v3
       desc: Build a wheel of fortune on the fly using Phaser's graphic object then turn it into a sprite.
       link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-1
@@ -80,6 +84,7 @@
         - tween
         - resize
     - name: Wheel of Fortune Pt 2
+      series: Wheel of Fortune
       version: v3
       desc: Builds on the previous Wheel of Fortune guide and makes it prettier and with better "spin feel."
       link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-2
@@ -156,7 +161,6 @@
   Tutorials:
     - name: Modular Game Worlds Part 4
       series: Modular Game Worlds
-      version: v3
       desc: Add realistic physics to your game world with Matter.js
       link: https://phaser.io/news/2018/09/modular-game-worlds-in-phaser-3-part4
       directlink: https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-4-meet-matter-js-abf4dfa65ca1
@@ -228,6 +232,275 @@
   Releases:
     - 3.12.0
 
+- Issue: 127
+  Link: https://madmimi.com/p/ffcfbc
+  Tutorials:
+    - name: Modular Game Worlds Part 3
+      series: Modular Game Worlds
+      version: v3
+      link: https://phaser.io/news/2018/08/modular-game-worlds-in-phaser-3-part3
+      directlink: https://phaser.io/news/2018/08/modular-game-worlds-in-phaser-3-part3
+      desc: This is the third post in a series of blog posts about creating modular worlds with tilemaps in the Phaser 3 game engine. In this edition, we’ll create an endless, procedurally-generated dungeon
+      tags:
+        - arcade
+        - physics
+        - modular
+        - tilemap
+        - procedural generation
+        - procgen
+        - dungeon
+        - dynamicetilemaplayer
+        - tiled
+        - platformer
+        - Michael Hadley
+
+    - name: Wheel of Fortune Part 1
+      series: Wheel of Fortune
+      version: v3
+      link: https://phaser.io/news/2018/08/wheel-of-fortune-tutorial
+      directlink: https://www.emanueleferonato.com/2018/05/22/build-a-wheel-of-fortune-for-your-html5-games-with-phaser-in-only-a-few-lines-updated-to-phaser-3-8-0/
+      desc: Works through the process of building a configurable wheel of fortune style prize spinner
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+        - input
+
+    - name: Knife Hit Part 3
+      series: Knife Hit
+      version: v3
+      desc: Continues the process of building a knife throwing game; this step adds varying target speeds
+      link: https://phaser.io/news/2018/08/knife-hit-tutorial-part-2
+      directlink: https://www.emanueleferonato.com/2018/05/09/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry-changing-target-speed/
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+    - name: Jumping on Enemies
+      desc: Updated tutorial on how to check that your character is jumping on top of an enemy with simple physics
+      version: v3
+      link: https://phaser.io/news/2018/08/jumping-on-enemies-tutorial
+      directlink: https://www.emanueleferonato.com/2018/05/03/the-basics-behind-jumping-on-enemies-feature-explained-with-phaser-and-arcade-physics-updated-to-phaser-3/
+      tags:
+        - physics
+        - arcade
+        - Emanuele Feronato
+
+    - name: Creating Custom Phoser Builds
+      version: v3
+      link: https://madmimi.com/p/ffcfbc
+      desc: Learn how to create streamlined versions of phaser by eliminating systems you don't use.
+      tags:
+        - phaser feature guide
+        - javascript
+        - webpack
+        - bundling
+        - tools
+  Updates:
+    - 3.12 is delayed but progress continues
+    - Cameras that ignore a game object can no longer interact with it
+    - setTintFill now respects the alpha of a game object
+
+- Issue: 126
+  Link: https://madmimi.com/p/15739
+  Tutorials:
+    - name: Modular Game Worlds Part 2
+      series: Modular Game Worlds
+      version: v3
+      link: https://phaser.io/news/2018/08/modular-game-worlds-in-phaser-3-part2
+      directlink: https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-2-dynamic-platformer-3d68e73d494a
+      desc: Dives into dynamic tilemaps to build a platformer
+      tags:
+        - arcade
+        - physics
+        - modular
+        - tilemap
+        - dynamicetilemaplayer
+        - tiled
+        - platformer
+        - Michael Hadley
+    - name: Build Yeah Bunny clone!
+      version: v3
+      link: https://phaser.io/news/2018/08/yeah-bunny-tutorial
+      directlink: https://www.emanueleferonato.com/2018/04/28/super-mario-who-html5-platformer-prototype-inspired-by-ios-hit-yeah-bunny-thanks-to-phaser-and-arcade-physics-updated-to-phaser-3-6-0/
+      desc: Walk thorugh the code to build an autorunner with Arcade physics in Phaser3.
+      tags:
+        - autorunner
+        - physics
+        - arcade
+        - Emanuele Feronato
+        - input
+        - tilemap
+        - platformer
+        - wall jump
+
+    - name: Loading assets as data URI
+      version: v3
+      link: https://phaser.io/news/2018/08/data-uri-tutorial
+      directlink: https://supernapie.com/blog/loading-assets-as-data-uri-in-phaser-3
+      desc: This guide explains how you can load the assets of your Phaser 3 game as data URI's, without having to rely on xhr requests. I'll cover images, spritesheets and audio.
+      tags:
+        - xhr
+        - data uri
+        - asset
+        - base64
+        - webpack
+        - bundling
+
+    - name: Integrate with Facebook Instant Games API for leaderboards
+      version: v2
+      link: https://phaser.io/news/2018/08/fb-leaderboards-tutorial
+      directlink: https://www.emanueleferonato.com/2018/04/24/how-to-integrate-facebook-instant-games-api-in-your-phaser-game-managing-leaderboards/
+      desc: Learn how to create and manage leaderboards with Facebook Instant Games API and Phaser 2.
+      tags:
+        - Facebook Instant Game
+        - Emanuele Feronato
+
+  Updates:
+    - 3.12 is getting large; Facebook Instant Games, Scale Manager, and DOM Game Objects are now in an experimental build flag
+    - Expect 3.13 to contain the Facebook Instant Games Plugin
+    - A full rewrite of containers is coming soon
+    - Phaser 3 now supports alternate tilemap render orders
+    - Support for scaling SVG to fractional or specific size as part of the loader
+    - The version of Matter.js used was updated
+    - New version of the Slopes plugin is released for v3
+
+  Releases:
+    - 3.12.0-beta3
+
+- Issue: 125
+  Link: https://madmimi.com/p/933c9c
+  Tutorials:
+    - name: Converting Flash games to Phaser
+      desc: Discusses common mistakes and techniques for converting a Flash game to Phaser. Based on version 2 most advice applies across the board and is worth a read.
+      version: v2
+      link: https://phaser.io/news/2018/08/converting-a-flash-game-into-html5
+      directlink: https://www.smashingmagazine.com/2018/07/converting-flash-game-html5/
+      tags:
+        - flash
+        - port
+        - interface
+        - ui
+        - custom font
+        - save game
+    - name: Palette Swapping in Phaser
+      version: v3
+      desc: Inspired by the Phaser2 guide this addresses how to easily customize the display of sprites using the simple technique of palette swapping.
+      link: https://phaser.io/news/2018/08/palette-swapping-example
+      directlink: https://github.com/Colbydude/phaser-3-palette-swapping-example
+      tags:
+        - palette
+
+    - name: Platette Swapping in Phaser
+      version: v2
+      desc: This tutorial works through how palette swapping can be used to provide color-customized versions of a sprite with ease.
+      directlink: https://laxvikinggames.blogspot.com/2015/01/build-dynamic-texture-atlas-in-phaser.html
+      tags:
+        - palette
+
+    - name: Support Retina images in your game
+      desc: High resolution displays call for high definition art. This tutorial guides you on how to make sure your work is super crisp on HD displays.
+      version: v3
+      link: https://phaser.io/news/2018/08/retina-tutorial
+      directlink: https://supernapie.com/blog/support-retina-with-phaser-3
+      tags:
+        - HD
+        - DPI
+        - resize
+
+  Updates:
+    - Massive changes to RenderTexture are coming! Read about them here.
+    - TileSprite implementation update which improves performance in most cases and supports croping.
+
+  Releases:
+    - 3.12.0-beta2
+
+- Issue: 124
+  Link: https://madmimi.com/p/9b529c
+  Tutorials:
+    - name: Setting up a modern webdev environment for Phaser
+      desc: Learn how to use modern tooling to set up a sustainable Javascript project and how to leverage those tools with Phaser development.
+      version: v3
+      link: https://phaser.io/news/2018/07/modern-phaser-3-web-dev-tutorial
+      directlink: https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/
+      tags:
+        - webdev
+        - tools
+        - yarn
+        - webpack
+        - babel
+        - javascript
+
+    - name: Modular Game Worlds Part 1
+      version: v3
+      series: Modular Game Worlds
+      desc: Build a physics platformer using Matter.JS and tilemaps!
+      link: https://phaser.io/news/2018/07/modular-game-worlds-in-phaser-3
+      directlink: https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6
+      tags:
+        - arcade
+        - physics
+        - modular
+        - tilemap
+        - tiled
+        - top down
+        - Michael Hadley
+  
+    - name: Textured Graphics
+      version: v3
+      desc: Explanation of new features available once Flat Tint and Texture Tint pipelines are unified
+      link: https://madmimi.com/p/9b529c
+      tags:
+        - graphics
+        - setTexture
+        - phaser feature guide
+
+  Updates:
+    - Flat Tint Pipeline is being replaced with the Texture Tint Pipeline improving performance of mixing Graphics and Game Objects
+    - Beginning to think about Shape as a new Game Object
+    - Started work on the Facebook Instant Games plugin
+
+  Releases:
+
+- Issue: 123
+  Link: https://madmimi.com/p/29f98c
+  Tutorials:
+    - name: Creating a multiplayer game with the blockchain
+      desc: Zac Holland has written a tutorial about creating a multiplayer blockchain game using Phaser, node.js and Ethereum.
+      version: v3
+      link: https://phaser.io/news/2018/07/multiplayer-blockchain-game-tutorial
+      directlink: https://itnext.io/making-a-multiplayer-blockchain-game-using-phaser-nodejs-and-ethereum-pt-2-702b0c667e44
+      tags:
+        - node
+        - blockchain
+        - ethereum
+        - multiplayer
+        - planck
+        - socket.io
+        - web3
+  
+    - name: DOM Element Game Object
+      desc: Learn about using the new DOM element in your game.
+      version: v3
+      link: https://madmimi.com/p/29f98c
+      tags:
+        - DOM
+        - HTML
+        - interface
+        - ui
+        - menu
+        - phaser feature guide
+
+  Updates:
+    - Work continues on the new Scale Manager and Facebook Instanc Games integration
+    - DOM Element Game Object in progress!
+    - Nested containers slated for removal after 3.12 is released
+
+  Releases:
+    - 2.11.0
+
 - Issue: 122
   Link: https://madmimi.com/p/abd23c
   Tutorials:
@@ -235,7 +508,7 @@
       version: v3
       desc: Learn more about Tilemaps, including tilemap culling and tileset extrusion
       link: https://madmimi.com/p/abd23c
-      
+
     - name: Modern Web Dev Set-up for Phaser 3
       version: v3
       desc: A guide to setting-up a modern web dev environment for Phaser 3 development.
@@ -261,12 +534,14 @@
       directlink: http://www.emanueleferonato.com/2018/04/17/how-to-integrate-facebook-instant-games-api-in-your-phaser-game-saving-game-information/
 
     - name: Knife Hit Tutorial Part 1
+      series: Knife Hit
       version: v3
       desc: Re-create the game Knife Hit using only tweens and trigonometry in Phaser 3.
       link: http://phaser.io/news/2018/05/knife-hit-tutorial-part-1
       directlink: http://www.emanueleferonato.com/2018/04/10/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry/
 
     - name: Knife Hit Tutorial Part 2
+      series: Knife Hit
       version: v3
       desc: Re-create the game Knife Hit in Phaser 3. This time adding in hitting other knives.
       link: http://phaser.io/news/2018/05/knife-hit-tutorial-part-2
@@ -309,13 +584,13 @@
     - Scale Manager in 3.12
 
   Releases:
-    - v3.7.0
-    - v3.8.0
-    - v3.9.0
-    - v3.10.0
-    - v3.10.1
-    - v3.11.0
-    - v2.10.6
+    - 3.7.0
+    - 3.8.0
+    - 3.9.0
+    - 3.10.0
+    - 3.10.1
+    - 3.11.0
+    - 2.10.6
 
 - Issue: 121
   Link: https://madmimi.com/p/860f1c
@@ -324,7 +599,7 @@
       version: v3
       desc: Learn more about Scene List and Scene Rendering
       link: https://madmimi.com/p/860f1c
-      
+
     - name: Creating native mobile games with Phaser3 and Capacitor
       version: v3
       desc: Build a native mobile app with Typescript, Webpack, and Capacitor
@@ -338,7 +613,7 @@
       directlink: http://www.emanueleferonato.com/2018/03/08/html5-sokoban-prototype-built-with-phaser-3-updated-to-3-2-0-with-improved-undo-double-tap-control-pixel-art-mode-and-flashing-camera/
 
   Updates:
-    - v3.7.0 development progress
+    - 3.7.0 development progress
     - Changes coming to Loader Plugin and File Types
 
 - Issue: 120
@@ -361,7 +636,7 @@
       desc: Introduction to Phaser and game development with Catt Small; video lecture
       link: https://phaser.io/news/2018/04/coding-train-tutorial
       directlink: https://blog.codepen.io/2018/04/10/phaser-game-development-with-catt-small/
-    
+
     - name: Lighting Effects in Phaser3
       version: v3
       desc: Uses normal map texture to provide some depth to your 2D sprites.
@@ -384,9 +659,9 @@
     - Containers, and an introduction!
     - Scene Transitions
     - Docs and Typescript
-  
+
   Releases:
-    - v3.6.0
+    - 3.6.0
 
 - Issue: 119
   Link: https://madmimi.com/p/a2dddb
@@ -423,11 +698,11 @@
     - API Docs
     - Typescript Definitions
     - Containers
-  
+
   Releases:
-    - v3.3.0
-    - v2.10.3
-   
+    - 3.3.0
+    - 2.10.3
+
 - Issue: 118
   Link: https://madmimi.com/p/ff68db
   Tutorials:
@@ -435,19 +710,19 @@
       version: v3
       desc: A continuation of the discussion about the differences between v2 and v3.
       link: https://madmimi.com/p/ff68db
-      
+
     - name: Animated Tiles from Tiled
       version: v3
       desc: Provides a plugin, and a guide to using it, that adds support for animated tiles as exported from Tiled.
       link: https://phaser.io/news/2018/03/phaser-3-animated-tiles-plugin
       directlink: https://github.com/nkholski/phaser-animated-tiles
-      
+
     - name: Generating sprite sheets from Photoshop
       version: v2
       desc: Uses TexturePacker and Photoshop's layers to generate a sprite sheet. Contains bare bones demo of how to load the resulting atlas.
       link: https://phaser.io/news/2018/03/psd-parse-and-texturepacker-tutorial
       directlink: https://medium.com/@jeffreyroshan/generate-phaser-spritesheet-from-psd-layers-using-psdparse-texturepacker-6c7a3446a3d3
-    
+
     - name: Recreating "Ballz" in Phaser, Part 3
       version: v2
       desc: Continuation of a full game prototype involving block-breaking multi-ball action
@@ -457,7 +732,7 @@
   Updates:
     - Docs
     - Containers
-    
+
   Releases:
-    - v3.2.1
-    - v2.10.1
+    - 3.2.1
+    - 2.10.1
