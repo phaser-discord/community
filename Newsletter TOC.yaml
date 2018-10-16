@@ -156,6 +156,7 @@
   Tutorials:
     - name: Modular Game Worlds Part 4
       series: Modular Game Worlds
+      version: v3
       desc: Add realistic physics to your game world with Matter.js
       link: https://phaser.io/news/2018/09/modular-game-worlds-in-phaser-3-part4
       directlink: https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-4-meet-matter-js-abf4dfa65ca1
