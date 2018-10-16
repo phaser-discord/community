@@ -1,6 +1,12 @@
 # Frequently Asked Questions
 (that we have answers to)
 
+Also note that [@samme][gh-samme] maintains [another FAQ][samme-faq] that you can
+check out!
+
+[gh-samme]: https://github.com/samme
+[samme-faq]: https://github.com/samme/phaser3-faq/wiki
+
 ## I'm new to Phaser, what should I do?
 
 _Last Updated: 2018-05-17_
@@ -160,3 +166,4 @@ being. That said, the documentation is becoming better every day, so be sure to
 check on the status of Phaser 3 from time to time.
 
 [wild-v3]: https://www.youtube.com/watch?v=St_tPsG0pX0
+
