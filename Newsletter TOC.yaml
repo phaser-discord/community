@@ -1,3 +1,61 @@
+- Issue: 131
+  Link: https://madmimi.com/p/6f870d
+  Tutorials:
+    - name: A deep dive into 'this' in JavaScript
+      desc: This post is geared towards those of you who have no preconceptions of what you think this is or what it should be. I will try to explain what this is and why it is helpful in a simple manner without unnecessary jargon.
+      link: https://madmimi.com/p/6f870d
+      directlink: https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7
+      tags:
+        - javascript
+        - this
+        - scoping
+    - name: Wheel of Fortune Part 3
+      desc: Expands on the previous tutorials to allow configuration of slice size.
+      link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-3
+      directlink: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-3
+      version: v3
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+    - name: Wheel of Fortune Part 4
+      desc: Completes the Wheel of Fortune series by using containers to attach prizes to our wheel.
+      link: https://phaser.io/news/2018/10/wheel-of-fortune-tutorial-part-4
+      directlink: https://www.emanueleferonato.com/2018/06/20/build-a-wheel-of-fortune-for-your-html5-games-with-phaser-3-in-only-a-few-lines-adding-icons-using-the-brand-new-phaser-3-containers/
+      version: v3
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+        - container
+    - name: Knife Hit Part 4
+      desc: Adds collectable items to our knife throwing game.
+      link: https://phaser.io/news/2018/10/knife-hit-tutorial-part-4
+      directlink: https://www.emanueleferonato.com/2018/06/15/build-a-html5-game-like-knife-hit-with-phaser-3-using-only-tweens-and-trigonometry-adding-apples-and-slicing-them-too/
+      version: v3
+      tags:
+        - Emanuele Feronato
+        - graphics
+        - tween
+        - resize
+    - name: Accessing Matter.js Directly
+      desc: Adding objects to a Matter.js world without using a Phaser intermediary object.
+      link: https://madmimi.com/p/6f870d
+      version: v3
+      tags:
+        - physics
+        - matter
+        - phaser feature guide
+  
+  Updates:
+    - "Doc Jam: Write docs, win prizes"
+    - Scale Manager gets a full rewrite, will come with fullscreen API support
+    - labs.phaser.io will soon stop using the dev build in edit mode
+    - Spine plugin progress continues and demos should be landing soon
+    - 3.14 iOS performance regression identified and fixed
+
 - Issue: 130
   Link: https://madmimi.com/p/eeb5ec
   Tutorials:
@@ -43,7 +101,7 @@
 
   Updates:
     - New Sticker Packs!
-    - "Doc Jam: Write docs, when prizes"
+    - "Doc Jam: Write docs, win prizes"
     - Tilemap improvements
     - "Scale Manager: now targetting 3.15.0"
     - Container rewrite beginning in 3.16
