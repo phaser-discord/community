@@ -111,6 +111,122 @@
     - 3.14.0
     - 2.11.1
 
+- Issue: 129
+  Link: https://madmimi.com/p/53ecdc
+  Tutorials:
+    - name: Modular Game Worlds Part 5
+      version: v3
+      series: Modular Game Worlds
+      desc: Build a physics platformer using Matter.JS and tilemaps!
+      link: https://phaser.io/news/2018/09/modular-game-worlds-in-phaser-3-part5
+      directlink: https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-5-matter-physics-platformer-d14d1f614557
+      tags:
+        - matter
+        - physics
+        - modular
+        - tilemap
+        - tiled
+        - platformer
+        - Michael Hadley
+    - name: 'Zenva: Turn based RPG Part 2'
+      version: v3
+      desc: Continue building your RPG by adding in the battle system.
+      series: Turn-Based RPG
+      link: https://phaser.io/news/2018/09/how-to-create-a-turn-based-rpg-in-phaser-3-part2
+      directlink: https://gamedevacademy.org/how-to-create-a-turn-based-rpg-game-in-phaser-3-part-2/
+      tags:
+        - turn-based
+        - zenva
+        - rpg
+        - battle
+        - event
+        - menu
+        - interface
+
+  Updates:
+    - Facebook Instant Game Plugin available
+    - 'Announcing Doc Jam: working together to fill the holes in the documentation'
+
+  Releases:
+    - 3.13.0
+
+- Issue: 128
+  Link: https://madmimi.com/p/47d9cc
+  
+  Tutorials:
+    - name: Modular Game Worlds Part 4
+      series: Modular Game Worlds
+      desc: Add realistic physics to your game world with Matter.js
+      link: https://phaser.io/news/2018/09/modular-game-worlds-in-phaser-3-part4
+      directlink: https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-4-meet-matter-js-abf4dfa65ca1
+      tags:
+        - Michael Hadley
+        - matter
+        - physics
+        - modular
+        - tilemap
+        - tiled
+        - platformer
+
+    - name: 'Zenva: Turn based RPG Part 1'
+      series: Turn-Based RPG
+      desc: Build a turn-based RPG similar to the early Final Fantasy games while learning to use many neat features of Phaser
+      version: v3
+      link: https://phaser.io/news/2018/09/how-to-create-a-turn-based-rpg-in-phaser-3
+      directlink: https://gamedevacademy.org/how-to-create-a-turn-based-rpg-game-in-phaser-3-part-1/
+      tags:
+        - zenva
+        - turn-based
+        - rpg
+        - scene
+        - tilemap
+        - tiled
+        - arcade
+        - physics
+        - camera effects
+    
+    - name: A Star Maze solving
+      version: v3
+      desc: Learn how to navigate a procedural environment using EasyStar.js and Phaser
+      link: https://phaser.io/news/2018/09/a-star-maze-solving-tutorial
+      directlink: https://www.emanueleferonato.com/2018/05/24/pure-javascript-a-maze-solving-with-a-bit-of-magic-thanks-to-phaser-and-easystar-js-updated-to-phaser-3-8-0-and-easystar-js-0-4-3/
+      tags:
+        - a*
+        - a star
+        - procedural generation
+        - procgen
+        - Emanuele Feronato
+
+    - name: Circular progress meter
+      version: v3
+      desc: Build a configurable, circular, progress meter
+      link: https://phaser.io/news/2018/09/circle-pie-meter-class
+      directlink: https://updatestage.com/quick-code-circle-pie-meter-class-for-phaser-3/
+      tags:
+        - progress bar
+        - graphics
+  
+    - name: Shape Game Object
+      desc: Getting to know the new Shape game object
+      link: https://madmimi.com/p/47d9cc
+      version: v3
+      tags:
+        - phaser feature guide
+        - graphics
+        - shape
+
+  Updates:
+    - Significant improvements made to the core renderer; comes with API and TypeScript doc updates
+    - Facebook Instant Games Plugin and new Shapes object are coming in 3.13
+    - DOM Game Objects, DOM Camera, and the new Scale Manager planned for 3.14
+    - Hoping that 3.15 will see a Container and Transforms overhaul
+    - Photonstorm looking to write some first-party phaser3 books and tutorials after 3.15 release
+    - Finally, loading Game Object and Scene layouts from JSON targeting a far future release, maybe 3.16
+
+
+  Releases:
+    - 3.12.0
+
 - Issue: 122
   Link: https://madmimi.com/p/abd23c
   Tutorials:
