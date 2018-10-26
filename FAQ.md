@@ -167,3 +167,15 @@ check on the status of Phaser 3 from time to time.
 
 [wild-v3]: https://www.youtube.com/watch?v=St_tPsG0pX0
 
+## My game behaves inconsistent/stops running while in the background
+_Last Updated: 2018-10-26_
+
+Modern browsers place several restrictions on websites that run in the background. This usually means background tabs, but can also influence windows that are unfocused or partly hidden by another window. When in the background, requestAnimationFrame is not triggered, and it may be throttled when the website is unfocused. This means that Phaser's update loop won't run. Additionally, timers in background tabs may run less frequently than they normally would. Chrome only executes timers once per second, while Firefox has similar policies. The timers may be throttled even more in some cases. Playing audio or using websockets are usually an exception to this additional throttling.
+
+More details:
+- [Background tabs in chrome][chr-back-tabs]
+- [MDN page about background page policies][mdn-back-policy]
+
+[chr-back-tabs]: https://developers.google.com/web/updates/2017/03/background_tabs
+[mdn-back-policy]: https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API#Policies_in_place_to_aid_background_page_performance
+
