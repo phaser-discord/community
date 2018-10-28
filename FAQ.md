@@ -144,7 +144,7 @@ but currently incomplete.
 
 ## Should I use Phaser CE or v3?
 
-_Last Updated: 2018-02-10 / 2018-08-13_
+_Last Updated: 2018-02-10 / 2018-10-28_
 
 tl;dr: One of our members made a video talking about deciding whether or not
 to use v3: [go watch it][wild-v3] (thanks Wild)! For production stuff, Phaser CE
@@ -155,15 +155,17 @@ That video was recorded Feb 10th. Since then we (the community at large) have
 leveled up several times about how well we understand and how much we've
 experimented with v3. Tutorials are beginning to emerge and several patch
 releases have appeared fixing bugs and adding previosly missing features.
-Broadly speaking getting into v3 is much easier than it was but still a bit
-on the bleeding edge. If you're adventurous and willing to dig v3 is a good
-place to be.
+Broadly speaking getting into V3 is much easier than it was but still seeing
+quite a bit of development. If you're adventurous and willing to dig v3 is a
+good place to be. The API is cleaner than CE and it's definitely the future of
+Phaser so learning it to start with is probably a good move.
 
-If you need something stable and battle worn that you can take into production,
-you are new to Javascript/development, or just don't want to fight your tools
-on a side project then you probably still want to stick with CE for the time
-being. That said, the documentation is becoming better every day, so be sure to
-check on the status of Phaser 3 from time to time.
+If you need something exceptionally stable and battle worn that you can take
+into production _right now_ then you probably still want to stick with CE for
+the time being. By the numbers most deployed Phaser games are CE which means
+more time has been spent understanding it's edge cases. You're not going to
+see as many bugs or API changes than working off V3 but you're also not going
+to see any improvements.
 
 [wild-v3]: https://www.youtube.com/watch?v=St_tPsG0pX0
 
