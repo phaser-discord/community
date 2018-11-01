@@ -1,3 +1,22 @@
+- Issue: 132
+  Link: https://madmimi.com/p/81a31d
+  Tutorials:
+    - name: Using the Spine Plugin for skeletal animation
+      desc: This discusses the licensing requirements to use the Spine runtimes in your game and works through an example of using it to display an animated sprite.
+      tags:
+        - spine
+        - phaser feature guide
+        - animation
+  Updates:
+    - The docjam is nearly over (that means the doc coverage is nearing 100%!)
+    - Spine Plugin development continues, expected release 2018-11-09
+    - The Spine work resulted in some neat refactors to how rendering pipelines work making it possible to hand off a canvas/WebGL context to a third party renderer.
+    - Scale Manager work resumes post-Spine and both should arrive in 3.16
+    - Complete docs are likely to land in 3.17
+    - "Exciting 2019 plans: refactoring to ES6 or Typescript"
+  Releases:
+    - 3.15.1
+    
 - Issue: 131
   Link: https://madmimi.com/p/6f870d
   Tutorials:
