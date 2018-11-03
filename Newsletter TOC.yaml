@@ -308,7 +308,7 @@
         - arcade
         - Emanuele Feronato
 
-    - name: Creating Custom Phoser Builds
+    - name: Creating Custom Phaser Builds
       version: v3
       link: https://madmimi.com/p/ffcfbc
       desc: Learn how to create streamlined versions of phaser by eliminating systems you don't use.
