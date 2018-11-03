@@ -181,3 +181,14 @@ More details:
 [chr-back-tabs]: https://developers.google.com/web/updates/2017/03/background_tabs
 [mdn-back-policy]: https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API#Policies_in_place_to_aid_background_page_performance
 
+## How do I post code?
+_Last Updated: 2018-11-03_
+
+If you have a small bit of code (less than about 20-30 lines) to share the easiest approach
+is using the formatting support built into Discord. This means using ` ```javascript ` on
+a line by itself then entering your code:
+
+![code format sample](https://i.imgur.com/OzQ4KtS.png)
+
+If you have a longer or multi-file segment of code creating a new [gist](https://gist.github.com/)
+or [codepen](https://codepen.io/) is better.
