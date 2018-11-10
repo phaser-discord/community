@@ -2,6 +2,7 @@
   Link: https://madmimi.com/p/81a31d
   Tutorials:
     - name: Using the Spine Plugin for skeletal animation
+      link: https://madmimi.com/p/81a31d
       desc: This discusses the licensing requirements to use the Spine runtimes in your game and works through an example of using it to display an animated sprite.
       tags:
         - spine
