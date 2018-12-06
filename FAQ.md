@@ -190,5 +190,5 @@ a line by itself then entering your code:
 
 ![code format sample](https://i.imgur.com/OzQ4KtS.png)
 
-If you have a longer or multi-file segment of code creating a new [gist](https://gist.github.com/)
-or [codepen](https://codepen.io/) is better.
+If you have a longer or multi-file segment of code you should create a new
+[gist](https://gist.github.com/) or [codepen](https://codepen.io/).
