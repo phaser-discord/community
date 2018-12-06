@@ -184,7 +184,7 @@ More details:
 ## How do I post code?
 _Last Updated: 2018-11-03_
 
-If you have a small bit of code (less than about 20-30 lines) to share the easiest approach
+If you have a small bit of code (less than about 15-20 lines) to share the easiest approach
 is using the formatting support built into Discord. This means using ` ```javascript ` on
 a line by itself then entering your code:
 
