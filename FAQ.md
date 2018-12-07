@@ -95,13 +95,14 @@ In the mean time it's not too bad to roll your own solution. We even have some e
 - [Example page][danny-ex] from DannyT includes functional examples built using
   some of the principles discussed in the following links
 - [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
-  demonstratse how to hook it into your game; the `orientation` and `content` references
-  are HTML elements in yoru page that you cane use to implement "wrong orientation" overlays
+  demonstrates how to hook it into your game; the `orientation` and `content` references
+  are HTML elements in your page that you cane use to implement "wrong orientation" overlays
   as described in [this post][sm-overlays]
 - [this thread][sm-thread] includes a (Haxe) code sample from community member Antriel
 - [a codepen][sm-cpen] sample linked from Samme includes another promising solution
 - [Scaling without framework support][sm-efer] Emanuele works through the principles
   of scaling your game regardless of framework support
+- [James Pierce posted the code he uses][sm-james] for scaling a game across devices
 
 [danny-ex]: http://phaser3.danny-t.co.uk/scaling/
 [sm-gist]: https://gist.github.com/AleBles/697d703e89eecae5a350c1453a32861e
@@ -109,6 +110,7 @@ In the mean time it's not too bad to roll your own solution. We even have some e
 [sm-cpen]: https://codepen.io/samme/pen/paOjMO
 [sm-overlays]: https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371
 [sm-efer]: http://www.emanueleferonato.com/2018/02/16/how-to-scale-your-html5-games-if-your-framework-does-not-feature-a-scale-manager-or-if-you-do-not-use-any-framework/
+[sm-james]: https://phaser.discourse.group/t/scaling-your-game-on-any-device/79
 
 ## Tell me the story of Phaser v3 and Typescript
 
