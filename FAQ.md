@@ -83,11 +83,11 @@ Right now this is just a collection of links that potentially may be useful:
 - (non-code theory) https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/
 - (probably not where you want to start but quality info) https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization
 
-## Is there a ScaleManager in v3?
+## How do I scale a Phaser 3 game? Is there a ScaleManager in v3?
 
-_Last Updated: 2018-08-13_
+_Last Updated: 2018-12-07_
 
-Not yet, but one is in the works and planned for Phaser 3.15! It won't be as complex as
+Not yet, but it's being worked on for Phaser 3.16, which is nearing completion! It won't be as complex as
 the one in Phaser CE, but should do a good job in helping you scale your game to fill
 the entire screen.
 
