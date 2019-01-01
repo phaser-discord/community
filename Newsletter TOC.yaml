@@ -325,7 +325,7 @@
     - setTintFill now respects the alpha of a game object
 
 - Issue: 126
-  Link: https://madmimi.com/p/15739
+  Link: https://madmimi.com/p/0fc8bc
   Tutorials:
     - name: Modular Game Worlds Part 2
       series: Modular Game Worlds
