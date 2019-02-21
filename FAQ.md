@@ -85,32 +85,11 @@ Right now this is just a collection of links that potentially may be useful:
 
 ## How do I scale a Phaser 3 game? Is there a ScaleManager in v3?
 
-_Last Updated: 2018-12-07_
+_Last Updated: 2019-21-02_
 
-Not yet, but it's being worked on for Phaser 3.16, which is nearing completion! It won't be as complex as
-the one in Phaser CE, but should do a good job in helping you scale your game to fill
-the entire screen.
+With the release of 3.16, Phaser now comes with a ScaleManager built in! Examples on it can be found [here][sm-examples].
 
-In the mean time it's not too bad to roll your own solution. We even have some examples
-- [Example page][danny-ex] from DannyT includes functional examples built using
-  some of the principles discussed in the following links
-- [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
-  demonstrates how to hook it into your game; the `orientation` and `content` references
-  are HTML elements in your page that you cane use to implement "wrong orientation" overlays
-  as described in [this post][sm-overlays]
-- [this thread][sm-thread] includes a (Haxe) code sample from community member Antriel
-- [a codepen][sm-cpen] sample linked from Samme includes another promising solution
-- [Scaling without framework support][sm-efer] Emanuele works through the principles
-  of scaling your game regardless of framework support
-- [James Pierce posted the code he uses][sm-james] for scaling a game across devices
-
-[danny-ex]: http://phaser3.danny-t.co.uk/scaling/
-[sm-gist]: https://gist.github.com/AleBles/697d703e89eecae5a350c1453a32861e
-[sm-thread]: http://www.html5gamedevs.com/topic/33206-scalemanagershow_all/
-[sm-cpen]: https://codepen.io/samme/pen/paOjMO
-[sm-overlays]: https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371
-[sm-efer]: http://www.emanueleferonato.com/2018/02/16/how-to-scale-your-html5-games-if-your-framework-does-not-feature-a-scale-manager-or-if-you-do-not-use-any-framework/
-[sm-james]: https://phaser.discourse.group/t/scaling-your-game-on-any-device/79
+[sm-examples]: https://labs.phaser.io/index.html?dir=scalemanager/&q=
 
 ## Tell me the story of Phaser v3 and Typescript
 
