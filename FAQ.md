@@ -85,7 +85,7 @@ Right now this is just a collection of links that potentially may be useful:
 
 ## How do I scale a Phaser 3 game? Is there a ScaleManager in v3?
 
-_Last Updated: 2019-21-02_
+_Last Updated: 2019-3-29_
 
 With the release of 3.16, Phaser now comes with a ScaleManager built in! Examples on it can be found [here][sm-examples].
 
