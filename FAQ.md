@@ -85,13 +85,13 @@ Right now this is just a collection of links that potentially may be useful:
 
 ## How do I scale a Phaser 3 game? Is there a ScaleManager in v3?
 
-_Last Updated: 2018-12-07_
+_Last Updated: 2019-3-29_
 
-Not yet, but it's being worked on for Phaser 3.16, which is nearing completion! It won't be as complex as
-the one in Phaser CE, but should do a good job in helping you scale your game to fill
-the entire screen.
+With the release of 3.16, Phaser now comes with a ScaleManager built in! Examples on it can be found [here][sm-examples].
 
-In the mean time it's not too bad to roll your own solution. We even have some examples
+[sm-examples]: https://labs.phaser.io/index.html?dir=scalemanager/&q=
+
+If you're not on 3.16 or above you'll have to roll your own solution. Heres some examples
 - [Example page][danny-ex] from DannyT includes functional examples built using
   some of the principles discussed in the following links
 - [this gist][sm-gist] from Str1ngS bundles some scaling functionality into a class and
