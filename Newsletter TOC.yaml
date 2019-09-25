@@ -1,3 +1,69 @@
+- Issue: 133
+  Link: https://madmimi.com/p/38bb2d
+  Tutorials:
+    - name: Retro Highscore Table Tutorial
+      desc: A new multi-part tutorial on creating a retro styled high-score table in Phaser 3 with modern inputs.
+      link: http://phaser.io/news/2018/11/retro-highscore-table-tutorial
+      directlink: http://phaser.io/tutorials/retro-highscore-table/index
+      tags:
+        - retro
+        - Richard Davey
+        - intermediate
+
+    - name: Circle vs. Line Segment Tutorial
+      desc: A short but useful tutorial on handling circle to line segment intersection in your games.
+      link: http://phaser.io/news/2018/10/circle-vs-line-segment-tutorial
+      directlink: https://www.emanueleferonato.com/2018/08/06/pure-mathematics-line-segment-vs-circle-collision-detection-along-with-html5-example/
+      tags:
+        - Emanuele Feronato
+        - intersection
+        - phaser 2
+    - name: Facebook Instant Games Leaderboards Tutorial
+      desc: Learn how to create and use Leaderboards with the Facebook Instant Games Plugin for Phaser 3.
+      link: http://phaser.io/news/2018/11/facebook-instant-games-leaderboards-tutorial
+      directlink: http://phaser.io/tutorials/facebook-instant-games-leaderboards/index
+      tags:
+        - Richard Davey
+        - Leaderboards
+        - instant games
+        - facebook
+        - messenger
+    - name: Circular Endless Runner Tutorial
+      desc: Learn how to create a circular endless runner in part one of this new tutorial series.
+      link: http://phaser.io/news/2018/10/circular-endless-runner-tutorial
+      directlink: https://www.emanueleferonato.com/2018/08/01/html5-prototype-of-a-circular-endless-runner-featuring-double-jump-built-with-phaser-using-only-trigonometry/
+      tags:
+        - Emanuele Feronato
+        - prototype
+    - name: Down the Mountain Tutorial Part 2
+      desc: In the second part of this series the prototype is updated so the jump is handled using cubic bezier curves.
+      link: http://phaser.io/news/2018/10/down-the-mountain-tutorial-part-2
+      directlink: https://www.emanueleferonato.com/2018/07/26/html5-down-the-mountain-prototype-built-with-phaser-3-updated-fake-3d-jump-using-cubic-bezier-curves-and-not-using-containers-anymore/
+      tags:
+        - Emanuele Feronato
+        - bezier
+        - down the mountain
+    - name: Making Games in Phaser 3 - Part 2
+      desc: A video overview of Scenes in Phaser 3 and what they can do.
+      link: http://phaser.io/news/2018/10/making-games-in-phaser-3-part-2
+      directlink: https://www.youtube.com/watch?v=ECE1Al-M4DM
+      tags:
+        - youtube
+        - scenes
+    - name: How to make a Roguelike
+      desc: A truly massive article on creating rogue-likes, best practices, and innovation in the field.
+      link: https://madmimi.com/p/38bb2d
+      directlink: https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/
+      tags:
+        - primer
+        - grid sage games
+        - cogmind
+  Updates:
+    - The doc jam is over, under 800 items left!
+    - Input manager changes caused by the scale manager coming.
+    - Pointer position is now calculated internally using a "ghost" vector following the pointer
+    - New blend mode ERASE for 3.16
+
 - Issue: 132
   Link: https://madmimi.com/p/81a31d
   Tutorials:
