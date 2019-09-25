@@ -8,6 +8,40 @@
         - spine
         - phaser feature guide
         - animation
+    - name: Facebook Instant Games Phaser Tutorial
+      desc: The first in a series of long-form tutorials covering the process of creating a Facebook Instant Game with Phaser 3.
+      link: http://phaser.io/news/2018/10/facebook-instant-games-phaser-tutorial
+      directlink: http://phaser.io/tutorials/getting-started-facebook-instant-games/
+      tags:
+        - instant games
+        - Richard Davey
+        - facebook
+        - messenger
+    - name: Managing Big Maps in Phaser 3
+      desc: A tutorial on splitting your game world up into chunks and progressively handling it as the player moves around.
+      link: http://phaser.io/news/2018/10/managing-big-maps-in-phaser-3
+      directlink: http://www.dynetisgames.com/2018/02/24/manage-big-maps-phaser-3/
+      tags:
+        - open world
+        - chunks
+        - rpg
+        - dynestis games
+    - name: Tweens and Curves Tutorial
+      desc: Learn how to use Tweens with curves and Bezier Curves with full source code.
+      link: http://phaser.io/news/2018/10/tweens-and-curves-tutorial
+      directlink: https://www.emanueleferonato.com/2018/07/19/playing-with-phaser-3-tweens-curves-and-cubic-bezier-curves/
+      tags:
+        - Emanuele Feronato
+        - curves
+        - bezier
+    - name: Down the Mountain Tutorial
+      desc: In this tutorial Emanuele updates his “Down the Mountain” prototype to Phaser 3 with full source code.
+      link: http://phaser.io/news/2018/10/down-the-mountain-tutorial
+      directlink: https://www.emanueleferonato.com/2018/07/06/html5-down-the-mountain-prototype-built-with-phaser-updated-to-phaser-3/
+      tags:
+        - Emanuele Feronato
+        - down the mountain
+        - object pooling
   Updates:
     - The docjam is nearly over (that means the doc coverage is nearing 100%!)
     - Spine Plugin development continues, expected release 2018-11-09
@@ -17,7 +51,7 @@
     - "Exciting 2019 plans: refactoring to ES6 or Typescript"
   Releases:
     - 3.15.1
-    
+
 - Issue: 131
   Link: https://madmimi.com/p/6f870d
   Tutorials:
@@ -153,7 +187,7 @@
         - tiled
         - platformer
         - Michael Hadley
-    - name: 'Zenva: Turn based RPG Part 2'
+    - name: "Zenva: Turn based RPG Part 2"
       version: v3
       desc: Continue building your RPG by adding in the battle system.
       series: Turn-Based RPG
@@ -170,14 +204,14 @@
 
   Updates:
     - Facebook Instant Game Plugin available
-    - 'Announcing Doc Jam: working together to fill the holes in the documentation'
+    - "Announcing Doc Jam: working together to fill the holes in the documentation"
 
   Releases:
     - 3.13.0
 
 - Issue: 128
   Link: https://madmimi.com/p/47d9cc
-  
+
   Tutorials:
     - name: Modular Game Worlds Part 4
       series: Modular Game Worlds
@@ -194,7 +228,7 @@
         - tiled
         - platformer
 
-    - name: 'Zenva: Turn based RPG Part 1'
+    - name: "Zenva: Turn based RPG Part 1"
       series: Turn-Based RPG
       desc: Build a turn-based RPG similar to the early Final Fantasy games while learning to use many neat features of Phaser
       version: v3
@@ -210,7 +244,7 @@
         - arcade
         - physics
         - camera effects
-    
+
     - name: A Star Maze solving
       version: v3
       desc: Learn how to navigate a procedural environment using EasyStar.js and Phaser
@@ -231,7 +265,7 @@
       tags:
         - progress bar
         - graphics
-  
+
     - name: Shape Game Object
       desc: Getting to know the new Shape game object
       link: https://madmimi.com/p/47d9cc
@@ -248,7 +282,6 @@
     - Hoping that 3.15 will see a Container and Transforms overhaul
     - Photonstorm looking to write some first-party phaser3 books and tutorials after 3.15 release
     - Finally, loading Game Object and Scene layouts from JSON targeting a far future release, maybe 3.16
-
 
   Releases:
     - 3.12.0
@@ -468,7 +501,7 @@
         - tiled
         - top down
         - Michael Hadley
-  
+
     - name: Textured Graphics
       version: v3
       desc: Explanation of new features available once Flat Tint and Texture Tint pipelines are unified
@@ -501,7 +534,7 @@
         - planck
         - socket.io
         - web3
-  
+
     - name: DOM Element Game Object
       desc: Learn about using the new DOM element in your game.
       version: v3
