@@ -1,3 +1,105 @@
+- Issue: 134
+  Link: https://madmimi.com/p/20be5d
+  Tutorials:
+    - name: Facebook Instant Games Ads Tutorial
+      desc: Learn how to create and display ads in your Facebook Instant Games using the Phaser 3 Plugin.
+      link: http://phaser.io/news/2018/12/facebook-instant-games-ads-tutorial
+      directlink: http://phaser.io/tutorials/facebook-instant-games-ads
+      tags:
+        - Richard Davey
+        - instant games
+        - facebook
+        - messenger
+        - ads
+    - name: Creating a Phaser 3 Text Style Library
+      desc: A tutorial on creating a library of Text Styles for use in Phaser 3 games.
+      link: http://phaser.io/news/2018/12/creating-a-phaser-3-text-style-library
+      directlink: https://phasergames.com/creating-a-phaser-3-text-style-library/
+      tags:
+        - Phaser 3
+        - text styles
+        - text game object
+    - name: Phaser + Electron + TypeScript + Parcel
+      desc: A minimal template combining Phaser 3, Electron, TyperScript and Parcel to bundle it all together.
+      link: http://phaser.io/news/2018/12/phaser-electron-typescript-parcel
+      directlink: https://github.com/distantcam/phaser-electron-typescript-parcel
+      tags:
+        - electron
+        - parcel
+        - typescript
+        - bundler
+    - name: Tower Defense Tutorial
+      desc: A comprehensive tutorial on creating a tower defense game in Phaser 3.
+      link: http://phaser.io/news/2018/12/tower-defense-tutorial
+      directlink: https://gamedevacademy.org/how-to-make-tower-defense-game-with-phaser-3/
+      tags:
+        - tower defense
+        - enemies
+        - turrets
+        - bullets
+        - bullet physics
+    - name: Buttons in Phaser 3
+      desc: A tutorial on creating your own Text Button Game Object in Phaser 3.
+      link: http://phaser.io/news/2018/12/buttons-in-phaser-3
+      directlink: https://snowbillr.github.io/blog/2018-07-03-buttons-in-phaser-3/
+      tags:
+        - button
+        - component
+        - button states
+        - class
+    - name: Sokoban Phaser 3 Tutorial Part 1
+      desc: A comprehensive tutorial series on creating the classic game Sokoban in Phaser 3.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-1
+      directlink: https://www.crazygames.com/blog/2018/10/24/Implementing-Sokoban-in-Phaser3/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+    - name: Sokoban Phaser 3 Tutorial Part 2
+      desc: In part 2 of this comprehensive tutorial series it covers creating a fully interactive level.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-2
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-2-Creating-an-Interactive-Level/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+    - name: Sokoban Phaser 3 Tutorial Part 3
+      desc: In part 3 of this comprehensive tutorial series it covers handling input and game logic.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-3
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-3-Handling-Input/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - input
+    - name: Sokoban Phaser 3 Tutorial Part 4
+      desc: In part 4 of this comprehensive tutorial series it covers creating a game overlay in React.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-4
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-4-Creating-an-Overlay-in-React/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - overlay
+        - menu
+        - react
+    - name: Sokoban Phaser 3 Tutorial Part 5
+      desc: In the final part of this comprehensive tutorial series learn how to publish your game and earn money from ads.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-1
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-5-Publishing-your-Game/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - publishing
+        - ads
+        - monetization
+  Updates:
+    - New phaser forum at phaser.discourse.group
+    - Changes to keyboard events
+    - Control over keyboard capturing
+    - Creating new animations with existing key just returns the existing animation
+    - New animation events and support for animation chaining
 - Issue: 133
   Link: https://madmimi.com/p/38bb2d
   Tutorials:
@@ -9,7 +111,6 @@
         - retro
         - Richard Davey
         - intermediate
-
     - name: Circle vs. Line Segment Tutorial
       desc: A short but useful tutorial on handling circle to line segment intersection in your games.
       link: http://phaser.io/news/2018/10/circle-vs-line-segment-tutorial
