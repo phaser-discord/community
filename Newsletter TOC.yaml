@@ -1,3 +1,62 @@
+- Issue: 137
+  Link:
+  Tutorials:
+    - name: Bot Framework Adventure Games
+      desc: >-
+        Creating an 8-bit adventure game using Phaser that you can control via the
+        Microsoft Bot Framework.
+      link: "http://phaser.io/news/2019/01/bot-framework-adventure-games"
+      directlink: "https://dotnetrocks.com/?show=1610"
+      tags:
+        - podcast
+        - bot
+        - adventure
+        - old-school
+        - Microsoft Bot Framework
+        - language
+    - name: Facebook Instant Games Tutorial
+      desc: >-
+        A comprehensive guide to using the Facebook Instant Games Plugin in Phaser
+        3.
+      link: "http://phaser.io/news/2019/01/facebook-instant-games-tutorial"
+      directlink: >-
+        https://phasertutorials.com/a-guide-to-using-the-facebook-instant-games-plugin-for-phaser-3-part-1/?a=13
+      tags:
+        - facebook
+        - instant games
+        - zenva
+    - name: Learn to make HTML5 games with Phaser 3
+      desc: >-
+        A brand new tutorial covering the all important basics from a Phaser 2
+        veteran.
+      link: "http://phaser.io/news/2019/01/learn-to-make-html5-games-with-phaser-3"
+      directlink: "https://www.lesscake.com/phaser-game-tutorial"
+      tags:
+        - lesscake
+        - Thomas Palef
+        - basics
+        - scenes
+        - sprites
+        - text
+        - collisions
+        - tweens
+    - name: Let's Build a Multiplayer Phaser Game
+      desc: "With TypeScript, Socket.IO, and Phaser in this new book from Apress."
+      link: "http://phaser.io/news/2019/01/lets-build-a-multiplayer-phaser-game"
+      directlink: "https://www.apress.com/gb/book/9781484242483"
+      version: v2
+      tags:
+        - multiplayer
+        - typescript
+        - socket.io
+        - Apress
+        - book
+  Updates:
+    - It will be possible to have an image fill the empty space around your game
+    - 3.16 coming out after full screen is in scale manager and spine 3.7 support is added.
+    - A root issue with transform matrices and game resolution above 1 might lead to high resolution support being disabled in 3.
+    - Events now use constants, structured using namespaces
+    - Every single event is now fully documented
 - Issue: 136
   Link: https://madmimi.com/p/8ee19d
   Tutorials:
