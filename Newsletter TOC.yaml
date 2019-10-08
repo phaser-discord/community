@@ -1,3 +1,36 @@
+- Issue: 135
+  Link: https://madmimi.com/p/aa218d
+  Tutorials:
+    - name: Atlas Packer Phaser
+      desc: A free web based texture atlas creator for Phaser 3.
+      link: "http://phaser.io/news/2019/01/atlas-packer-phaser"
+      directlink: "https://gammafp.github.io/atlas-packer-phaser/"
+      tags:
+        - texture atlas
+        - texture packing
+        - free
+    - name: Phaser Backer Examples January 2019
+      desc: >-
+        The January Phaser Backer Examples are now available including animated Tile
+        Sprites and Pointer followers.
+      link: "http://phaser.io/news/2019/01/phaser-backer-examples-january"
+      directlink: "http://phaser.io/community/donate"
+      tags:
+        - Richard Davey
+        - patron
+        - examples
+        - december
+    - name: How to make an Arcade Physics Sprite stop at a specific position
+      desc: Shows how to use velocity to move an object using the physics system and make it stop at some coorinate
+      link: https://madmimi.com/p/aa218d
+      tags:
+        - Richard Davey
+        - physics
+        - moveToObject
+        - velocity
+  Updates:
+    - Wrapping up the Spine plugin and scale manager soon
+    - Multiple scenes with draggable objects bug fix and explanation
 - Issue: 134
   Link: https://madmimi.com/p/20be5d
   Tutorials:
