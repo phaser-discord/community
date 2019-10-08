@@ -114,11 +114,15 @@ If you're not on 3.16 or above you'll have to roll your own solution. Heres some
 
 ## Tell me the story of Phaser v3 and Typescript
 
-_Last Updated: 2018-05-08_
+_Last Updated: 2019-10-08_
 
-Typescript defs are now available at [photonstorm/phaser3-docs][ts-defs]. That file
-is the one you want to use. Previously, [phaser#3224][ts-ticket] was the official
-Phaser tracking ticket.
+Typescript defs for Phaser have been available for a long time now. They are considered
+stable enough, and have been included in the types folder of the Phaser repository
+since Phaser 3.17. If you install Phaser with npm, that means you already have them
+downloaded. Before 3.17 they were available at [photonstorm/phaser3-docs][ts-defs].
+If you are stuck on an old version, that file is the one you want to use, just make
+sure to use the one corresponding yo your version. Previously, [phaser#3224][ts-ticket]
+was the official tracking ticket for typescript support in Phaser.
 
 [ts-defs]: https://github.com/photonstorm/phaser3-docs/tree/master/typescript
 [ts-ticket]: https://github.com/photonstorm/phaser/issues/3224
