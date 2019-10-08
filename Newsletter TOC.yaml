@@ -1,3 +1,337 @@
+- Issue: 137
+  Link:
+  Tutorials:
+    - name: Bot Framework Adventure Games
+      desc: >-
+        Creating an 8-bit adventure game using Phaser that you can control via the
+        Microsoft Bot Framework.
+      link: "http://phaser.io/news/2019/01/bot-framework-adventure-games"
+      directlink: "https://dotnetrocks.com/?show=1610"
+      tags:
+        - podcast
+        - bot
+        - adventure
+        - old-school
+        - Microsoft Bot Framework
+        - language
+    - name: Facebook Instant Games Tutorial
+      desc: >-
+        A comprehensive guide to using the Facebook Instant Games Plugin in Phaser
+        3.
+      link: "http://phaser.io/news/2019/01/facebook-instant-games-tutorial"
+      directlink: >-
+        https://phasertutorials.com/a-guide-to-using-the-facebook-instant-games-plugin-for-phaser-3-part-1/?a=13
+      tags:
+        - facebook
+        - instant games
+        - zenva
+    - name: Learn to make HTML5 games with Phaser 3
+      desc: >-
+        A brand new tutorial covering the all important basics from a Phaser 2
+        veteran.
+      link: "http://phaser.io/news/2019/01/learn-to-make-html5-games-with-phaser-3"
+      directlink: "https://www.lesscake.com/phaser-game-tutorial"
+      tags:
+        - lesscake
+        - Thomas Palef
+        - basics
+        - scenes
+        - sprites
+        - text
+        - collisions
+        - tweens
+    - name: Let's Build a Multiplayer Phaser Game
+      desc: "With TypeScript, Socket.IO, and Phaser in this new book from Apress."
+      link: "http://phaser.io/news/2019/01/lets-build-a-multiplayer-phaser-game"
+      directlink: "https://www.apress.com/gb/book/9781484242483"
+      version: v2
+      tags:
+        - multiplayer
+        - typescript
+        - socket.io
+        - Apress
+        - book
+  Updates:
+    - It will be possible to have an image fill the empty space around your game
+    - 3.16 coming out after full screen is in scale manager and spine 3.7 support is added.
+    - A root issue with transform matrices and game resolution above 1 might lead to high resolution support being disabled in 3.
+    - Events now use constants, structured using namespaces
+    - Every single event is now fully documented
+- Issue: 136
+  Link: https://madmimi.com/p/8ee19d
+  Tutorials:
+    - name: rexUI Plugins
+      desc: >-
+        A powerful set of UI plugins for Phaser 3 that includes Grid Tables,
+        Textboxes, Pop-up Menus, Labels and many more.
+      link: "http://phaser.io/news/2019/01/rexui-plugins"
+      directlink: "https://phaser.discourse.group/t/phaser-3-rexui-plugins/384"
+      tags:
+        - Rex Rainbow
+        - plugin
+        - grid
+        - menu
+        - tabs
+        - slider
+    - name: Creating a Phaser 3 Template
+      desc: >-
+        Part 1 of a tutorial on creating a common Phaser template that you can
+        re-use across all of your projects.
+      link: "http://phaser.io/news/2019/01/creating-a-phaser-3-template"
+      directlink: "https://gamedevacademy.org/creating-a-phaser-3-template-part-1/"
+      tags:
+        - template
+        - reusable
+        - menu
+        - options
+        - settings
+        - credits
+    - name: Introduction to Phaser 3 Graphics
+      desc: A video introduction to the Phaser 3 Graphics Game Object and how to use it.
+      link: "http://phaser.io/news/2019/01/introduction-to-phaser-3-graphics"
+      directlink: "https://youtu.be/xqRokokiwUk"
+      tags:
+        - graphics
+        - video
+        - youtube
+    - name: itch.io games made with Phaser
+      desc: >-
+        There are over 1280 games made with Phaser on itch.io. Here is how to add
+        yours to the list.
+      link: "http://phaser.io/news/2019/01/itch-io-games-made-with-phaser"
+      directlink: "https://itch.io/games/made-with-phaser"
+      tags:
+        - itch.io
+        - engines & tools
+        - metadata
+        - tag
+    - name: Super Size Me
+      desc: Explains the new scale manager scaling modes and how to use them.
+      link: https://madmimi.com/p/8ee19d
+      tags:
+        - Richard Davey
+        - scale manager
+        - scale modes
+        - resize
+        - envelop
+        - fit
+
+  Updates:
+    - More modern scale manager, rewritten from scratch
+    - New Size component inspired by Unity's Aspect Ratio Fitter
+    - Scale manager supports orientation, full screen coming soon
+- Issue: 135
+  Link: https://madmimi.com/p/aa218d
+  Tutorials:
+    - name: Atlas Packer Phaser
+      desc: A free web based texture atlas creator for Phaser 3.
+      link: "http://phaser.io/news/2019/01/atlas-packer-phaser"
+      directlink: "https://gammafp.github.io/atlas-packer-phaser/"
+      tags:
+        - texture atlas
+        - texture packing
+        - free
+    - name: Phaser Backer Examples January 2019
+      desc: >-
+        The January Phaser Backer Examples are now available including animated Tile
+        Sprites and Pointer followers.
+      link: "http://phaser.io/news/2019/01/phaser-backer-examples-january"
+      directlink: "http://phaser.io/community/donate"
+      tags:
+        - Richard Davey
+        - patron
+        - examples
+        - january
+    - name: How to make an Arcade Physics Sprite stop at a specific position
+      desc: Shows how to use velocity to move an object using the physics system and make it stop at some coorinate
+      link: https://madmimi.com/p/aa218d
+      tags:
+        - Richard Davey
+        - physics
+        - moveToObject
+        - velocity
+  Updates:
+    - Wrapping up the Spine plugin soon
+    - Working on the scale manager will continue
+    - Multiple scenes with draggable objects bug fix and explanation
+- Issue: 134
+  Link: https://madmimi.com/p/20be5d
+  Tutorials:
+    - name: Phaser Backer Examples December 2018
+      desc: >-
+        The Phaser Backer Examples are now available including a Scrollbars
+        component, Scene Builder and Swipe Gestures.
+      link: "http://phaser.io/news/2018/12/phaser-backer-examples-december"
+      directlink: "http://phaser.io/community/donate"
+      tags:
+        - Richard Davey
+        - patron
+        - examples
+        - december
+    - name: Facebook Instant Games Ads Tutorial
+      desc: Learn how to create and display ads in your Facebook Instant Games using the Phaser 3 Plugin.
+      link: http://phaser.io/news/2018/12/facebook-instant-games-ads-tutorial
+      directlink: http://phaser.io/tutorials/facebook-instant-games-ads
+      tags:
+        - Richard Davey
+        - instant games
+        - facebook
+        - messenger
+        - ads
+    - name: Creating a Phaser 3 Text Style Library
+      desc: A tutorial on creating a library of Text Styles for use in Phaser 3 games.
+      link: http://phaser.io/news/2018/12/creating-a-phaser-3-text-style-library
+      directlink: https://phasergames.com/creating-a-phaser-3-text-style-library/
+      tags:
+        - Phaser 3
+        - text styles
+        - text game object
+    - name: Phaser + Electron + TypeScript + Parcel
+      desc: A minimal template combining Phaser 3, Electron, TyperScript and Parcel to bundle it all together.
+      link: http://phaser.io/news/2018/12/phaser-electron-typescript-parcel
+      directlink: https://github.com/distantcam/phaser-electron-typescript-parcel
+      tags:
+        - electron
+        - parcel
+        - typescript
+        - bundler
+    - name: Tower Defense Tutorial
+      desc: A comprehensive tutorial on creating a tower defense game in Phaser 3.
+      link: http://phaser.io/news/2018/12/tower-defense-tutorial
+      directlink: https://gamedevacademy.org/how-to-make-tower-defense-game-with-phaser-3/
+      tags:
+        - tower defense
+        - enemies
+        - turrets
+        - bullets
+        - bullet physics
+    - name: Buttons in Phaser 3
+      desc: A tutorial on creating your own Text Button Game Object in Phaser 3.
+      link: http://phaser.io/news/2018/12/buttons-in-phaser-3
+      directlink: https://snowbillr.github.io/blog/2018-07-03-buttons-in-phaser-3/
+      tags:
+        - button
+        - component
+        - button states
+        - class
+    - name: Sokoban Phaser 3 Tutorial Part 1
+      desc: A comprehensive tutorial series on creating the classic game Sokoban in Phaser 3.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-1
+      directlink: https://www.crazygames.com/blog/2018/10/24/Implementing-Sokoban-in-Phaser3/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+    - name: Sokoban Phaser 3 Tutorial Part 2
+      desc: In part 2 of this comprehensive tutorial series it covers creating a fully interactive level.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-2
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-2-Creating-an-Interactive-Level/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+    - name: Sokoban Phaser 3 Tutorial Part 3
+      desc: In part 3 of this comprehensive tutorial series it covers handling input and game logic.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-3
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-3-Handling-Input/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - input
+    - name: Sokoban Phaser 3 Tutorial Part 4
+      desc: In part 4 of this comprehensive tutorial series it covers creating a game overlay in React.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-4
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-4-Creating-an-Overlay-in-React/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - overlay
+        - menu
+        - react
+    - name: Sokoban Phaser 3 Tutorial Part 5
+      desc: In the final part of this comprehensive tutorial series learn how to publish your game and earn money from ads.
+      link: http://phaser.io/news/2018/12/sokoban-phaser-3-tutorial-part-1
+      directlink: https://www.crazygames.com/blog/2018/10/24/Sokoban-Series-Part-5-Publishing-your-Game/
+      tags:
+        - sokoban
+        - puzzle
+        - logic
+        - publishing
+        - ads
+        - monetization
+  Updates:
+    - New phaser forum at phaser.discourse.group
+    - Changes to keyboard events
+    - Control over keyboard capturing
+    - Creating new animations with existing key just returns the existing animation
+    - New animation events and support for animation chaining
+- Issue: 133
+  Link: https://madmimi.com/p/38bb2d
+  Tutorials:
+    - name: Retro Highscore Table Tutorial
+      desc: A new multi-part tutorial on creating a retro styled high-score table in Phaser 3 with modern inputs.
+      link: http://phaser.io/news/2018/11/retro-highscore-table-tutorial
+      directlink: http://phaser.io/tutorials/retro-highscore-table/index
+      tags:
+        - retro
+        - Richard Davey
+        - intermediate
+    - name: Circle vs. Line Segment Tutorial
+      desc: A short but useful tutorial on handling circle to line segment intersection in your games.
+      link: http://phaser.io/news/2018/10/circle-vs-line-segment-tutorial
+      directlink: https://www.emanueleferonato.com/2018/08/06/pure-mathematics-line-segment-vs-circle-collision-detection-along-with-html5-example/
+      tags:
+        - Emanuele Feronato
+        - intersection
+        - phaser 2
+    - name: Facebook Instant Games Leaderboards Tutorial
+      desc: Learn how to create and use Leaderboards with the Facebook Instant Games Plugin for Phaser 3.
+      link: http://phaser.io/news/2018/11/facebook-instant-games-leaderboards-tutorial
+      directlink: http://phaser.io/tutorials/facebook-instant-games-leaderboards/index
+      tags:
+        - Richard Davey
+        - Leaderboards
+        - instant games
+        - facebook
+        - messenger
+    - name: Circular Endless Runner Tutorial
+      desc: Learn how to create a circular endless runner in part one of this new tutorial series.
+      link: http://phaser.io/news/2018/10/circular-endless-runner-tutorial
+      directlink: https://www.emanueleferonato.com/2018/08/01/html5-prototype-of-a-circular-endless-runner-featuring-double-jump-built-with-phaser-using-only-trigonometry/
+      tags:
+        - Emanuele Feronato
+        - prototype
+    - name: Down the Mountain Tutorial Part 2
+      desc: In the second part of this series the prototype is updated so the jump is handled using cubic bezier curves.
+      link: http://phaser.io/news/2018/10/down-the-mountain-tutorial-part-2
+      directlink: https://www.emanueleferonato.com/2018/07/26/html5-down-the-mountain-prototype-built-with-phaser-3-updated-fake-3d-jump-using-cubic-bezier-curves-and-not-using-containers-anymore/
+      tags:
+        - Emanuele Feronato
+        - bezier
+        - down the mountain
+    - name: Making Games in Phaser 3 - Part 2
+      desc: A video overview of Scenes in Phaser 3 and what they can do.
+      link: http://phaser.io/news/2018/10/making-games-in-phaser-3-part-2
+      directlink: https://www.youtube.com/watch?v=ECE1Al-M4DM
+      tags:
+        - youtube
+        - scenes
+    - name: How to make a Roguelike
+      desc: A truly massive article on creating rogue-likes, best practices, and innovation in the field.
+      link: https://madmimi.com/p/38bb2d
+      directlink: https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/
+      tags:
+        - primer
+        - grid sage games
+        - cogmind
+  Updates:
+    - The doc jam is over, under 800 items left!
+    - Input manager changes caused by the scale manager coming.
+    - Pointer position is now calculated internally using a "ghost" vector following the pointer
+    - New blend mode ERASE for 3.16
+
 - Issue: 132
   Link: https://madmimi.com/p/81a31d
   Tutorials:
@@ -8,6 +342,40 @@
         - spine
         - phaser feature guide
         - animation
+    - name: Facebook Instant Games Phaser Tutorial
+      desc: The first in a series of long-form tutorials covering the process of creating a Facebook Instant Game with Phaser 3.
+      link: http://phaser.io/news/2018/10/facebook-instant-games-phaser-tutorial
+      directlink: http://phaser.io/tutorials/getting-started-facebook-instant-games/
+      tags:
+        - instant games
+        - Richard Davey
+        - facebook
+        - messenger
+    - name: Managing Big Maps in Phaser 3
+      desc: A tutorial on splitting your game world up into chunks and progressively handling it as the player moves around.
+      link: http://phaser.io/news/2018/10/managing-big-maps-in-phaser-3
+      directlink: http://www.dynetisgames.com/2018/02/24/manage-big-maps-phaser-3/
+      tags:
+        - open world
+        - chunks
+        - rpg
+        - dynestis games
+    - name: Tweens and Curves Tutorial
+      desc: Learn how to use Tweens with curves and Bezier Curves with full source code.
+      link: http://phaser.io/news/2018/10/tweens-and-curves-tutorial
+      directlink: https://www.emanueleferonato.com/2018/07/19/playing-with-phaser-3-tweens-curves-and-cubic-bezier-curves/
+      tags:
+        - Emanuele Feronato
+        - curves
+        - bezier
+    - name: Down the Mountain Tutorial
+      desc: In this tutorial Emanuele updates his “Down the Mountain” prototype to Phaser 3 with full source code.
+      link: http://phaser.io/news/2018/10/down-the-mountain-tutorial
+      directlink: https://www.emanueleferonato.com/2018/07/06/html5-down-the-mountain-prototype-built-with-phaser-updated-to-phaser-3/
+      tags:
+        - Emanuele Feronato
+        - down the mountain
+        - object pooling
   Updates:
     - The docjam is nearly over (that means the doc coverage is nearing 100%!)
     - Spine Plugin development continues, expected release 2018-11-09
@@ -17,7 +385,7 @@
     - "Exciting 2019 plans: refactoring to ES6 or Typescript"
   Releases:
     - 3.15.1
-    
+
 - Issue: 131
   Link: https://madmimi.com/p/6f870d
   Tutorials:
@@ -153,7 +521,7 @@
         - tiled
         - platformer
         - Michael Hadley
-    - name: 'Zenva: Turn based RPG Part 2'
+    - name: "Zenva: Turn based RPG Part 2"
       version: v3
       desc: Continue building your RPG by adding in the battle system.
       series: Turn-Based RPG
@@ -170,14 +538,14 @@
 
   Updates:
     - Facebook Instant Game Plugin available
-    - 'Announcing Doc Jam: working together to fill the holes in the documentation'
+    - "Announcing Doc Jam: working together to fill the holes in the documentation"
 
   Releases:
     - 3.13.0
 
 - Issue: 128
   Link: https://madmimi.com/p/47d9cc
-  
+
   Tutorials:
     - name: Modular Game Worlds Part 4
       series: Modular Game Worlds
@@ -194,7 +562,7 @@
         - tiled
         - platformer
 
-    - name: 'Zenva: Turn based RPG Part 1'
+    - name: "Zenva: Turn based RPG Part 1"
       series: Turn-Based RPG
       desc: Build a turn-based RPG similar to the early Final Fantasy games while learning to use many neat features of Phaser
       version: v3
@@ -210,7 +578,7 @@
         - arcade
         - physics
         - camera effects
-    
+
     - name: A Star Maze solving
       version: v3
       desc: Learn how to navigate a procedural environment using EasyStar.js and Phaser
@@ -231,7 +599,7 @@
       tags:
         - progress bar
         - graphics
-  
+
     - name: Shape Game Object
       desc: Getting to know the new Shape game object
       link: https://madmimi.com/p/47d9cc
@@ -248,7 +616,6 @@
     - Hoping that 3.15 will see a Container and Transforms overhaul
     - Photonstorm looking to write some first-party phaser3 books and tutorials after 3.15 release
     - Finally, loading Game Object and Scene layouts from JSON targeting a far future release, maybe 3.16
-
 
   Releases:
     - 3.12.0
@@ -468,7 +835,7 @@
         - tiled
         - top down
         - Michael Hadley
-  
+
     - name: Textured Graphics
       version: v3
       desc: Explanation of new features available once Flat Tint and Texture Tint pipelines are unified
@@ -501,7 +868,7 @@
         - planck
         - socket.io
         - web3
-  
+
     - name: DOM Element Game Object
       desc: Learn about using the new DOM element in your game.
       version: v3
