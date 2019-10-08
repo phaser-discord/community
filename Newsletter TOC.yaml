@@ -19,7 +19,7 @@
         - Richard Davey
         - patron
         - examples
-        - december
+        - january
     - name: How to make an Arcade Physics Sprite stop at a specific position
       desc: Shows how to use velocity to move an object using the physics system and make it stop at some coorinate
       link: https://madmimi.com/p/aa218d
@@ -29,7 +29,8 @@
         - moveToObject
         - velocity
   Updates:
-    - Wrapping up the Spine plugin and scale manager soon
+    - Wrapping up the Spine plugin soon
+    - Working on the scale manager will continue
     - Multiple scenes with draggable objects bug fix and explanation
 - Issue: 134
   Link: https://madmimi.com/p/20be5d
