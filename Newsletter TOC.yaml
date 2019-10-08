@@ -1,3 +1,66 @@
+- Issue: 136
+  Link: https://madmimi.com/p/8ee19d
+  Tutorials:
+    - name: rexUI Plugins
+      desc: >-
+        A powerful set of UI plugins for Phaser 3 that includes Grid Tables,
+        Textboxes, Pop-up Menus, Labels and many more.
+      link: "http://phaser.io/news/2019/01/rexui-plugins"
+      directlink: "https://phaser.discourse.group/t/phaser-3-rexui-plugins/384"
+      tags:
+        - Rex Rainbow
+        - plugin
+        - grid
+        - menu
+        - tabs
+        - slider
+    - name: Creating a Phaser 3 Template
+      desc: >-
+        Part 1 of a tutorial on creating a common Phaser template that you can
+        re-use across all of your projects.
+      link: "http://phaser.io/news/2019/01/creating-a-phaser-3-template"
+      directlink: "https://gamedevacademy.org/creating-a-phaser-3-template-part-1/"
+      tags:
+        - template
+        - reusable
+        - menu
+        - options
+        - settings
+        - credits
+    - name: Introduction to Phaser 3 Graphics
+      desc: A video introduction to the Phaser 3 Graphics Game Object and how to use it.
+      link: "http://phaser.io/news/2019/01/introduction-to-phaser-3-graphics"
+      directlink: "https://youtu.be/xqRokokiwUk"
+      tags:
+        - graphics
+        - video
+        - youtube
+    - name: itch.io games made with Phaser
+      desc: >-
+        There are over 1280 games made with Phaser on itch.io. Here is how to add
+        yours to the list.
+      link: "http://phaser.io/news/2019/01/itch-io-games-made-with-phaser"
+      directlink: "https://itch.io/games/made-with-phaser"
+      tags:
+        - itch.io
+        - engines & tools
+        - metadata
+        - tag
+    - name: Super Size Me
+      desc: Explains the new scale manager scaling modes and how to use them.
+      link: https://madmimi.com/p/8ee19d
+      tags:
+        - Richard Davey
+        - scale manager
+        - scale modes
+        - resize
+        - envelop
+        - fit
+
+  Updates:
+    - More modern scale manager, rewritten from scratch
+    - New Size component inspired by Unity's Aspect Ratio Fitter
+    - Scale manager supports orientation, full screen coming soon
 - Issue: 135
   Link: https://madmimi.com/p/aa218d
   Tutorials:
