@@ -1,6 +1,17 @@
 - Issue: 134
   Link: https://madmimi.com/p/20be5d
   Tutorials:
+    - name: Phaser Backer Examples December 2018
+      desc: >-
+        The Phaser Backer Examples are now available including a Scrollbars
+        component, Scene Builder and Swipe Gestures.
+      link: "http://phaser.io/news/2018/12/phaser-backer-examples-december"
+      directlink: "http://phaser.io/community/donate"
+      tags:
+        - Richard Davey
+        - patron
+        - examples
+        - december
     - name: Facebook Instant Games Ads Tutorial
       desc: Learn how to create and display ads in your Facebook Instant Games using the Phaser 3 Plugin.
       link: http://phaser.io/news/2018/12/facebook-instant-games-ads-tutorial
