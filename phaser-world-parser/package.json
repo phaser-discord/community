@@ -1,0 +1,16 @@
+{
+  "name": "phaser-world-parser",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to grab games and tutorials from a specificed Phaser World issue and print them to YAML.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Sletvold <patricksletvold@hotmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "jsdom": "^15.1.1"
+  }
+}
