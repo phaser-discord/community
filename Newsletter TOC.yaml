@@ -54,7 +54,7 @@
   Updates:
     - It will be possible to have an image fill the empty space around your game
     - 3.16 coming out after full screen is in scale manager and spine 3.7 support is added.
-    - A root issue with transform matrices and game resolution above 1 might lead to high resolution support being disabled in 3.
+    - A root issue with transform matrices and game resolution above 1 might lead to high resolution support being disabled in 3.16.
     - Events now use constants, structured using namespaces
     - Every single event is now fully documented
 - Issue: 136
