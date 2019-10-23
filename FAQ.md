@@ -7,6 +7,24 @@ check out!
 [gh-samme]: https://github.com/samme
 [samme-faq]: https://github.com/samme/phaser3-faq/wiki
 
+## What is Phaser 4? Didn't Phaser 3 just come out?
+
+_Last Updated: 2019-10-23
+
+Phaser 4 is like an evolution of Phaser 3. Keep the best parts and improve the rest.
+Phaser 4 will be written in TypeScript and be more modular and tree-shakeable.
+The development has just started, but the plan is for you to be able to either
+use a Phaser 3-like API, or the new style of importing and using just what you need.
+
+## Will I have to use TypeScript with Phaser 4?
+
+_Last Updated: 2019-10-23
+
+No! When Phaser 4 is released, there will be prebuilt .js and .min.js made available,
+just like you're used to. If you consume the Phaser source directly, you can even
+setup your bundler to compile the TypeScript code for you, while still writing
+your code in JavaScript!
+
 ## I'm new to Phaser, what should I do?
 
 _Last Updated: 2018-05-17_
@@ -39,7 +57,7 @@ suggestions about new stuff that should be added to the list.
 
 _Disclaimer:_ the author of this list wrote the structure and scenes posts
 
-The [phaser examples page][labs] is a rich source of code samples demonstrating
+The [phaser examples page][examples] is a rich source of code samples demonstrating
 various aspects of the Phaser framework.
 
 The [phaser API docs][apidocs] is an ever-improving source of information and great
@@ -56,7 +74,7 @@ If you'd like to help this list grow we'd like to add:
 [structure]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part1.md
 [scenes]: https://github.com/jdotrjs/phaser-guides/blob/master/Basics/Part3.md
 [community-links]: https://phaser.io/community
-[labs]: https://labs.phaser.io
+[examples]: http://phaser.io/examples
 [apidocs]: https://photonstorm.github.io/phaser3-docs/
 
 ## Where is the documentation and/or examples?
