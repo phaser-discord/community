@@ -15,6 +15,9 @@ Phaser 4 is like an evolution of Phaser 3. Keep the best parts and improve the r
 Phaser 4 will be written in TypeScript and be more modular and tree-shakeable.
 The development has just started, but the plan is for you to be able to either
 use a Phaser 3-like API, or the new style of importing and using just what you need.
+You can read more about it in [Rich's patreon post][phaser4-patreon]
+
+[phaser4-patreon]: https://www.patreon.com/posts/phaser-4-process-29671934
 
 ## Will I have to use TypeScript with Phaser 4?
 
