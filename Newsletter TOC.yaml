@@ -1,4 +1,5 @@
 - Issue: 137
+  Date: 01/2019
   Link: https://madmimi.com/p/491c9d
   Tutorials:
     - name: Bot Framework Adventure Games
@@ -58,6 +59,7 @@
     - Events now use constants, structured using namespaces
     - Every single event is now fully documented
 - Issue: 136
+  Date: 01/2019
   Link: https://madmimi.com/p/8ee19d
   Tutorials:
     - name: rexUI Plugins
@@ -121,6 +123,7 @@
     - New Size component inspired by Unity's Aspect Ratio Fitter
     - Scale manager supports orientation, full screen coming soon
 - Issue: 135
+  Date: 01/2019
   Link: https://madmimi.com/p/aa218d
   Tutorials:
     - name: Atlas Packer Phaser
@@ -155,6 +158,7 @@
     - Working on the scale manager will continue
     - Multiple scenes with draggable objects bug fix and explanation
 - Issue: 134
+  Date: 12/2018
   Link: https://madmimi.com/p/20be5d
   Tutorials:
     - name: Phaser Backer Examples December 2018
@@ -268,6 +272,7 @@
     - Creating new animations with existing key just returns the existing animation
     - New animation events and support for animation chaining
 - Issue: 133
+  Date: 12/2018
   Link: https://madmimi.com/p/38bb2d
   Tutorials:
     - name: Retro Highscore Table Tutorial
@@ -333,6 +338,7 @@
     - New blend mode ERASE for 3.16
 
 - Issue: 132
+  Date: 10/2018
   Link: https://madmimi.com/p/81a31d
   Tutorials:
     - name: Using the Spine Plugin for skeletal animation
@@ -387,6 +393,7 @@
     - 3.15.1
 
 - Issue: 131
+  Date: 10/2018
   Link: https://madmimi.com/p/6f870d
   Tutorials:
     - name: A deep dive into 'this' in JavaScript
@@ -448,6 +455,7 @@
     - 3.14 iOS performance regression identified and fixed
 
 - Issue: 130
+  Date: 10/2018
   Link: https://madmimi.com/p/eeb5ec
   Tutorials:
     - name: Progressive Web Apss
@@ -505,6 +513,7 @@
     - 2.11.1
 
 - Issue: 129
+  Date: 09/2018
   Link: https://madmimi.com/p/53ecdc
   Tutorials:
     - name: Modular Game Worlds Part 5
@@ -544,6 +553,7 @@
     - 3.13.0
 
 - Issue: 128
+  Date: 09/2018
   Link: https://madmimi.com/p/47d9cc
 
   Tutorials:
@@ -621,6 +631,7 @@
     - 3.12.0
 
 - Issue: 127
+  Date: 09/2018
   Link: https://madmimi.com/p/ffcfbc
   Tutorials:
     - name: Modular Game Worlds Part 3
@@ -692,6 +703,7 @@
     - setTintFill now respects the alpha of a game object
 
 - Issue: 126
+  Date: 08/2018
   Link: https://madmimi.com/p/0fc8bc
   Tutorials:
     - name: Modular Game Worlds Part 2
@@ -759,6 +771,7 @@
     - 3.12.0-beta3
 
 - Issue: 125
+  Date: 08/2018
   Link: https://madmimi.com/p/933c9c
   Tutorials:
     - name: Converting Flash games to Phaser
@@ -806,6 +819,7 @@
     - 3.12.0-beta2
 
 - Issue: 124
+  Date: 07/2018
   Link: https://madmimi.com/p/9b529c
   Tutorials:
     - name: Setting up a modern webdev environment for Phaser
@@ -853,6 +867,7 @@
   Releases:
 
 - Issue: 123
+  Date: 07/2018
   Link: https://madmimi.com/p/29f98c
   Tutorials:
     - name: Creating a multiplayer game with the blockchain
@@ -890,6 +905,7 @@
     - 2.11.0
 
 - Issue: 122
+  Date: 07/2018
   Link: https://madmimi.com/p/abd23c
   Tutorials:
     - name: Tilemap Mini-Tutorial
@@ -981,6 +997,7 @@
     - 2.10.6
 
 - Issue: 121
+  Date: 05/2018
   Link: https://madmimi.com/p/860f1c
   Tutorials:
     - name: Scenes Tutorial pt. 2
@@ -1005,6 +1022,7 @@
     - Changes coming to Loader Plugin and File Types
 
 - Issue: 120
+  Date: 04/2018
   Link: https://madmimi.com/p/2c1afb
   Tutorials:
     - name: Platformer Tutorial
@@ -1052,6 +1070,7 @@
     - 3.6.0
 
 - Issue: 119
+  Date: 03/2018
   Link: https://madmimi.com/p/a2dddb
   Tutorials:
     - name: Scenes
@@ -1092,6 +1111,7 @@
     - 2.10.3
 
 - Issue: 118
+  Date: 03/2018
   Link: https://madmimi.com/p/ff68db
   Tutorials:
     - name: Phaser 3 migration Guide, Part 2
